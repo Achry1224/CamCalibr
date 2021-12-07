@@ -1,0 +1,89 @@
+/usr/bin/python2.7 /home/achry/ethz_kalibr_ws/src/kalibr/aslam_offline_calibration/kalibr/python/kalibr_calibrate_cameras --bag /media/achry/LENOVO_USB_HDD/temp/tumvi_calib_data/dataset-calib-cam3_512_16.bag --topics /cam0/image_raw /cam1/image_raw --models pinhole-equi pinhole-equi --target /home/achry/CalibrData/april_6x6.yaml
+importing libraries
+Initializing cam0:
+	Camera model:	  pinhole-equi
+	Dataset:          /media/achry/LENOVO_USB_HDD/temp/tumvi_calib_data/dataset-calib-cam3_512_16.bag
+	Topic:            /cam0/image_raw
+	Number of images: 337
+Extracting calibration target corners
+  Extracted corners for 332 images (of 337 images)                              
+	Projection initialized to: [ 206.31655743  206.31671293  255.50158951  255.49783511]
+	Distortion initialized to: [ 0.00094942 -0.03317695  0.04829812 -0.01549273]
+Initializing cam1:
+	Camera model:	  pinhole-equi
+	Dataset:          /media/achry/LENOVO_USB_HDD/temp/tumvi_calib_data/dataset-calib-cam3_512_16.bag
+	Topic:            /cam1/image_raw
+	Number of images: 337
+Extracting calibration target corners
+  Extracted corners for 331 images (of 337 images)                              
+	Projection initialized to: [ 208.1186438   208.11914832  255.49984908  255.4990329 ]
+	Distortion initialized to: [ 0.01073418 -0.03152114  0.02566035 -0.00648268]
+initializing initial guesses
+	 initializing camera pair (0,1)...  
+initialized baseline between cam0 and cam1 to:
+[[ 0.99999774 -0.00116056  0.00178208 -0.10889257]
+ [ 0.00125628  0.99850275 -0.0546872  -0.00110883]
+ [-0.00171595  0.05468931  0.99850195  0.00842782]
+ [ 0.          0.          0.          1.        ]]
+initialized cam0 to:
+	 projection cam0: [ 206.31655736  206.31671282  255.50158999  255.49783439]
+	 distortion cam0: [ 0.00079054 -0.03361447  0.0471963  -0.01817474]
+initialized cam1 to:
+	 projection cam1: [ 208.11864401  208.11914843  255.49984934  255.49903262]
+	 distortion cam1: [ 0.01074931 -0.03161658  0.02528962 -0.0075207 ]
+initializing calibrator
+starting calibration...
+  Progress 9 / 336 	 Time remaining: 5s                 [ERROR] [1638883868.538510]: Did not converge in maxIterations... restarting...
+[ WARN] [1638883868.540334]: Optimization diverged possibly due to a bad initialization. (Do the models fit the lenses well?)
+[ WARN] [1638883868.541962]: Restarting for a new attempt...
+ Reinitialize the intrinsics for camera 0
+	Projection initialized to: [ 206.31655743  206.31671293  255.50158951  255.49783511]
+	Distortion initialized to: [ 0.00094942 -0.03317695  0.04829812 -0.01549273]
+Reinitialize the intrinsics for camera 1
+	Projection initialized to: [ 208.1186438   208.11914832  255.49984908  255.4990329 ]
+	Distortion initialized to: [ 0.01073418 -0.03152114  0.02566035 -0.00648268]
+initializing initial guesses
+	 initializing camera pair (0,1)...  
+initialized baseline between cam0 and cam1 to:
+[[ 0.99999774 -0.00116056  0.00178208 -0.10889257]
+ [ 0.00125628  0.99850275 -0.0546872  -0.00110883]
+ [-0.00171595  0.05468931  0.99850195  0.00842782]
+ [ 0.          0.          0.          1.        ]]
+initialized cam0 to:
+	 projection cam0: [ 206.31655736  206.31671282  255.50158999  255.49783439]
+	 distortion cam0: [ 0.00079054 -0.03361447  0.0471963  -0.01817474]
+initialized cam1 to:
+	 projection cam1: [ 208.11864401  208.11914843  255.49984934  255.49903262]
+	 distortion cam1: [ 0.01074931 -0.03161658  0.02528962 -0.0075207 ]
+initializing calibrator
+starting calibration...
+  Progress 1 / 336 	 Time remaining: 1s                 [ERROR] [1638883874.727642]: Did not converge in maxIterations... restarting...
+[ WARN] [1638883874.730629]: Optimization diverged possibly due to a bad initialization. (Do the models fit the lenses well?)
+[ WARN] [1638883874.732240]: Restarting for a new attempt...
+ Reinitialize the intrinsics for camera 0
+	Projection initialized to: [ 206.31655743  206.31671293  255.50158951  255.49783511]
+	Distortion initialized to: [ 0.00094942 -0.03317695  0.04829812 -0.01549273]
+Reinitialize the intrinsics for camera 1
+	Projection initialized to: [ 208.1186438   208.11914832  255.49984908  255.4990329 ]
+	Distortion initialized to: [ 0.01073418 -0.03152114  0.02566035 -0.00648268]
+initializing initial guesses
+	 initializing camera pair (0,1)...  
+initialized baseline between cam0 and cam1 to:
+[[ 0.99999774 -0.00116056  0.00178208 -0.10889257]
+ [ 0.00125628  0.99850275 -0.0546872  -0.00110883]
+ [-0.00171595  0.05468931  0.99850195  0.00842782]
+ [ 0.          0.          0.          1.        ]]
+initialized cam0 to:
+	 projection cam0: [ 206.31655736  206.31671282  255.50158999  255.49783439]
+	 distortion cam0: [ 0.00079054 -0.03361447  0.0471963  -0.01817474]
+initialized cam1 to:
+	 projection cam1: [ 208.11864401  208.11914843  255.49984934  255.49903262]
+	 distortion cam1: [ 0.01074931 -0.03161658  0.02528962 -0.0075207 ]
+initializing calibrator
+starting calibration...
+  Progress 2 / 336 	 Time remaining: 3s                 [ERROR] [1638883880.960364]: Did not converge in maxIterations... restarting...
+[ WARN] [1638883880.962313]: Optimization diverged possibly due to a bad initialization. (Do the models fit the lenses well?)
+[ERROR] [1638883880.963952]: Max. attemps reached... Giving up...
+
+
+进程已结束,退出代码0
