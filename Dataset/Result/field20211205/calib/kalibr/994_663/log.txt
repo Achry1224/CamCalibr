@@ -7,48 +7,6 @@ Initializing cam0:
 	Number of images: 44
 Extracting calibration target corners
   Extracted corners for 43 images (of 44 images)                              
-[ERROR] [1639052602.894379]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.896088]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.897743]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.899338]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.900967]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.902529]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.904335]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.905940]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.907524]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.909110]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.910756]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.912343]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.913932]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.915518]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.917107]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.918695]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.920266]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.921848]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.923425]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.925091]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.926853]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.928428]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.930011]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.931618]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.933178]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.934765]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.936432]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.938034]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.939618]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.941180]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.942766]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.944322]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.945893]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.947457]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.949033]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.950604]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.952162]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.953733]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.955310]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.956957]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.958624]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052602.960208]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
 	Projection initialized to: [ 274.28965059  274.08704464  449.9378981   377.51583871]
 	Distortion initialized to: [ 0.00287947 -0.00083578 -0.00173809 -0.00145064]
 Initializing cam1:
@@ -58,91 +16,72 @@ Initializing cam1:
 	Number of images: 44
 Extracting calibration target corners
   Extracted corners for 44 images (of 44 images)                              
-[ERROR] [1639052606.559993]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.561874]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.563581]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.565161]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.566894]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.568640]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.570307]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.571968]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.573568]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.575145]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.577365]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.579025]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.580687]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.582299]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.583898]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.585516]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.587166]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.588763]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.590392]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.591993]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.593922]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.595554]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.597154]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.598740]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.600346]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.601924]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.604078]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.605686]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.607302]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.608885]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.610597]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.612275]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.613870]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.615601]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.617211]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.618779]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.620431]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.622009]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.623622]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.625359]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.627006]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.628714]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
-[ERROR] [1639052606.630316]: [TargetViewTable]: Tried to add second view to a given cameraId & timestamp. Maybe try to reduce the approximate syncing tolerance..
 	Projection initialized to: [ 306.26298118  309.04676914  531.35244873  415.19014185]
 	Distortion initialized to: [ 0.00435613 -0.0015714  -0.00054116  0.00004579]
 initializing initial guesses
 	 initializing camera pair (0,1)...  
 initialized baseline between cam0 and cam1 to:
-[[ 0.99972901  0.01808617 -0.0146561  -2.4015822 ]
- [-0.0179639   0.99980308  0.00843176 -0.25145887]
- [ 0.01480571 -0.00816619  0.99985704  0.23650251]
+[[ 0.9998651   0.01198648  0.01122956 -1.84021645]
+ [-0.0120092   0.99992597  0.00195841  0.01282572]
+ [-0.01120525 -0.00209301  0.99993503  0.04324162]
  [ 0.          0.          0.          1.        ]]
 initialized cam0 to:
-	 projection cam0: [ 274.28936856  274.0873771   449.9379487   377.51582432]
-	 distortion cam0: [ 0.00034128 -0.00026418 -0.00158873 -0.00313285]
+	 projection cam0: [ 797.89626237  802.85062072  505.59118402  372.93893687]
+	 distortion cam0: [ 0.06365515 -0.14966526 -0.00068564  0.00094225]
 initialized cam1 to:
-	 projection cam1: [ 306.26278781  309.04695757  531.3524405   415.19012472]
-	 distortion cam1: [ 0.0064924   0.00393715  0.00077139 -0.00204016]
+	 projection cam1: [ 799.01627086  803.75603223  500.24729585  375.13768592]
+	 distortion cam1: [ 0.05324351 -0.13092094  0.00098994  0.00003462]
 initializing calibrator
 starting calibration...
-  Progress 1 / 1 	 Time remaining:                  
+  Progress 25 / 44 	 Time remaining: 1s                 
+------------------------------------------------------------------
+
+Processed 26 of 44 views with 26 views used
+
+Camera-system parameters:
+	cam0 (/cam0/image_raw):
+	 type: <class 'aslam_cv.libaslam_cv_python.DistortedPinholeCameraGeometry'>
+	 distortion: [ 0.08054526 -0.16902239 -0.00195212 -0.00010492] +- [ 0.00656607  0.0150265   0.0005498   0.00103808]
+	 projection: [ 807.70560039  812.75000589  506.40212802  373.54152868] +- [ 0.50608936  0.52562702  0.08266347  0.08346987]
+	 reprojection error: [-0.000086, -0.000302] +- [0.273187, 0.539062]
+
+	cam1 (/cam1/image_raw):
+	 type: <class 'aslam_cv.libaslam_cv_python.DistortedPinholeCameraGeometry'>
+	 distortion: [ 0.04725794 -0.10576191  0.00065502 -0.00056596] +- [ 0.00697228  0.01426148  0.00055363  0.00109937]
+	 projection: [ 810.29123245  815.58589104  495.89337289  369.60574732] +- [ 0.51990514  0.50393489  0.04938204  0.09587663]
+	 reprojection error: [0.000059, 0.000353] +- [0.235734, 0.519643]
+
+	baseline T_1_0:
+	 q: [ 0.00458301 -0.00803665  0.00632048  0.99993723] +- [ 0.00022249  0.00054403  0.0003429 ]
+	 t: [-1.83646739  0.01377743  0.0586125 ] +- [ 0.00198664  0.00060591  0.00504345]
+
+
+------------------------------------------------------------------
+  Progress 44 / 44 	 Time remaining:                  
 
 ..................................................................
 
 Calibration complete.
 
-[ WARN] [1639052606.828956]: Removed 0 outlier corners.
+[ WARN] [1639205400.573569]: Removed 0 outlier corners.
 
-Processed 1 images with 1 images used
+Processed 44 images with 37 images used
 Camera-system parameters:
 	cam0 (/cam0/image_raw):
 	 type: <class 'aslam_cv.libaslam_cv_python.DistortedPinholeCameraGeometry'>
-	 distortion: [ 0.00058369  0.00010525 -0.00127552 -0.00313888] +- [ 0.01404343  0.00219581  0.01331628  0.01435428]
-	 projection: [ 274.23939875  274.85398738  450.14356168  377.50645563] +- [ 0.00003037  0.00007138  0.00006334  0.00001723]
-	 reprojection error: [0.000207, -0.000110] +- [0.208678, 0.241828]
+	 distortion: [ 0.0726298  -0.1662981  -0.00026996  0.00094717] +- [ 0.00543667  0.01235545  0.00046995  0.00084754]
+	 projection: [ 808.30444007  813.33511611  506.11620531  373.46493792] +- [ 0.40072873  0.4138909   0.05612071  0.0120539 ]
+	 reprojection error: [-0.000017, -0.000165] +- [0.266040, 0.497716]
 
 	cam1 (/cam1/image_raw):
 	 type: <class 'aslam_cv.libaslam_cv_python.DistortedPinholeCameraGeometry'>
-	 distortion: [ 0.00725423  0.02429375  0.00489192 -0.00234856] +- [ 0.01410896  0.02793116  0.02069652  0.02107454]
-	 projection: [ 306.16668525  310.95678504  531.14814988  415.15540418] +- [ 0.00009247  0.0000429   0.00006108  0.00001661]
-	 reprojection error: [-0.000217, 0.000120] +- [0.198948, 0.209431]
+	 distortion: [ 0.05136862 -0.12802359  0.0002083  -0.00110614] +- [ 0.00519698  0.01019871  0.0004763   0.0008599 ]
+	 projection: [ 809.70130953  814.72442829  496.15995865  369.66282631] +- [ 0.41097247  0.40382497  0.04325784  0.02354307]
+	 reprojection error: [0.000050, 0.000212] +- [0.221064, 0.481946]
 
 	baseline T_1_0:
-	 q: [ 0.00437811  0.00734745  0.0091482   0.99992158] +- [ 0.01723911  0.03262844  0.02765174]
-	 t: [-2.40303168 -0.25153     0.2331496 ] +- [ 0.00767004  0.00209964  0.00856667]
+	 q: [ 0.00464689 -0.00819774  0.00610957  0.99993694] +- [ 0.00010395  0.00042183  0.00029968]
+	 t: [-1.83899896  0.01377008  0.05092435] +- [ 0.00157098  0.00051278  0.00394545]
 
 Results written to file: camchain-mediaachryLENOVO_USB_HDDtempfield20211205calib_d994_663output_calib_994_663.yaml
   Detailed results written to file: results-cam-mediaachryLENOVO_USB_HDDtempfield20211205calib_d994_663output_calib_994_663.txt
