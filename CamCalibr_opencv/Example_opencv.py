@@ -18,6 +18,7 @@ imgpoints = []
 objp = np.zeros((1, CHECKERBOARD[0] * CHECKERBOARD[1], 3), np.float32)
 objp[0, :, :2] = np.mgrid[0:CHECKERBOARD[0], 0:CHECKERBOARD[1]].T.reshape(-1, 2)
 prev_img_shape = None
+print("@@@ objp type", type(objp))
 
 # Extracting path of individual image stored in a given directory
 print(glob.glob('./*/images/*.jpg'))
@@ -58,7 +59,18 @@ Performing camera calibration by
 passing the value of known 3D points (objpoints)
 and corresponding pixel coordinates of the 
 detected corners (imgpoints)
+通过执行相机校准
+传递已知 3D 点（对象点）的值
+和对应的像素坐标
+检测到的角点（imgpoints）
 """
+print("@@@objpoints : \n", objpoints)
+print("@@@objpoints type : \n", type(objpoints))
+print("@@@imgpoints : \n", imgpoints)
+print("@@@gray.shape : \n", gray.shape)
+print("@@@gray.shape[::-1] : \n", gray.shape[::-1])
+print("@@@gray.shape type : \n", type(gray.shape))
+
 ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(objpoints, imgpoints, gray.shape[::-1], None, None)
 
 print("Camera matrix : \n")
