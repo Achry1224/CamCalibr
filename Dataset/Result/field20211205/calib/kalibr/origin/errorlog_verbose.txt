@@ -1,0 +1,1316 @@
+/usr/bin/python2.7 /home/achry/kalibr_workspace/src/kalibr/aslam_offline_calibration/kalibr/python/kalibr_calibrate_cameras --bag /media/achry/LENOVO_USB_HDD/temp/field20211205/calib/output_calib.bag --topics /cam0/image_raw /cam1/image_raw --models pinhole-radtan pinhole-radtan --target /home/achry/CalibrData/april_6x6.yaml --verbose --dont-show-report
+importing libraries
+Initializing cam0:
+	Camera model:	  pinhole-radtan
+	Dataset:          /media/achry/LENOVO_USB_HDD/temp/field20211205/calib/output_calib.bag
+	Topic:            /cam0/image_raw
+	Number of images: 44
+Extracting calibration target corners
+[DEBUG] [1639540456.249131]: Subpix refinement failed for point: 0 with displacement: 1.35102(point removed) 
+
+[DEBUG] [1639540456.249162]: Subpix refinement failed for point: 15 with displacement: 1.94016(point removed) 
+
+[DEBUG] [1639540456.249170]: Subpix refinement failed for point: 7 with displacement: 1.35152(point removed) 
+
+[DEBUG] [1639540456.249177]: Subpix refinement failed for point: 19 with displacement: 2.04864(point removed) 
+
+[DEBUG] [1639540456.249184]: Subpix refinement failed for point: 24 with displacement: 1.34604(point removed) 
+
+[DEBUG] [1639540456.249191]: Subpix refinement failed for point: 36 with displacement: 1.22836(point removed) 
+
+[DEBUG] [1639540456.249198]: Subpix refinement failed for point: 28 with displacement: 1.80116(point removed) 
+
+[DEBUG] [1639540456.249205]: Subpix refinement failed for point: 40 with displacement: 1.56549(point removed) 
+
+[DEBUG] [1639540456.249212]: Subpix refinement failed for point: 42 with displacement: 1.24326(point removed) 
+
+[DEBUG] [1639540456.249218]: Subpix refinement failed for point: 32 with displacement: 1.65837(point removed) 
+
+[DEBUG] [1639540456.249225]: Subpix refinement failed for point: 33 with displacement: 1.3645(point removed) 
+
+[DEBUG] [1639540456.249232]: Subpix refinement failed for point: 49 with displacement: 1.55542(point removed) 
+
+[DEBUG] [1639540456.249239]: Subpix refinement failed for point: 61 with displacement: 1.53069(point removed) 
+
+[DEBUG] [1639540456.249245]: Subpix refinement failed for point: 60 with displacement: 1.36386(point removed) 
+
+[DEBUG] [1639540456.249254]: Subpix refinement failed for point: 68 with displacement: 1.23808(point removed) 
+
+[DEBUG] [1639540456.249260]: Subpix refinement failed for point: 59 with displacement: 1.22681(point removed) 
+
+[DEBUG] [1639540456.249267]: Subpix refinement failed for point: 84 with displacement: 1.41889(point removed) 
+
+[DEBUG] [1639540456.249274]: Subpix refinement failed for point: 75 with displacement: 1.35408(point removed) 
+
+[DEBUG] [1639540456.249281]: Subpix refinement failed for point: 76 with displacement: 1.83821(point removed) 
+
+[DEBUG] [1639540456.249287]: Subpix refinement failed for point: 88 with displacement: 1.47482(point removed) 
+
+[DEBUG] [1639540456.249294]: Subpix refinement failed for point: 78 with displacement: 1.64784(point removed) 
+
+[DEBUG] [1639540456.249300]: Subpix refinement failed for point: 79 with displacement: 1.25738(point removed) 
+
+[DEBUG] [1639540456.249307]: Subpix refinement failed for point: 90 with displacement: 1.66049(point removed) 
+
+[DEBUG] [1639540456.249314]: Subpix refinement failed for point: 80 with displacement: 1.24153(point removed) 
+
+[DEBUG] [1639540456.249320]: Subpix refinement failed for point: 81 with displacement: 1.47582(point removed) 
+
+[DEBUG] [1639540456.249327]: Subpix refinement failed for point: 93 with displacement: 1.31269(point removed) 
+
+[DEBUG] [1639540456.249334]: Subpix refinement failed for point: 111 with displacement: 1.35493(point removed) 
+
+[DEBUG] [1639540456.249341]: Subpix refinement failed for point: 110 with displacement: 1.68464(point removed) 
+
+[DEBUG] [1639540456.249348]: Subpix refinement failed for point: 101 with displacement: 1.39843(point removed) 
+
+[DEBUG] [1639540456.249355]: Subpix refinement failed for point: 106 with displacement: 1.66739(point removed) 
+
+[DEBUG] [1639540456.249362]: Subpix refinement failed for point: 121 with displacement: 1.87069(point removed) 
+
+[DEBUG] [1639540456.249369]: Subpix refinement failed for point: 133 with displacement: 1.6116(point removed) 
+
+[DEBUG] [1639540456.249375]: Subpix refinement failed for point: 123 with displacement: 1.62969(point removed) 
+
+[DEBUG] [1639540456.249382]: Subpix refinement failed for point: 135 with displacement: 1.30513(point removed) 
+
+[DEBUG] [1639540456.249391]: Subpix refinement failed for point: 130 with displacement: 1.61708(point removed) 
+
+[DEBUG] [1639540456.249397]: Subpix refinement failed for point: 131 with displacement: 1.6368(point removed) 
+
+  Progress 1 / 44 	 Time remaining: 4m 38s                 [DEBUG] [1639540465.590871]: Subpix refinement failed for point: 3 with displacement: 1.94973(point removed) 
+
+[DEBUG] [1639540465.590894]: Subpix refinement failed for point: 15 with displacement: 2.2294(point removed) 
+
+[DEBUG] [1639540465.590901]: Subpix refinement failed for point: 14 with displacement: 1.8864(point removed) 
+
+[DEBUG] [1639540465.590908]: Subpix refinement failed for point: 7 with displacement: 2.0817(point removed) 
+
+[DEBUG] [1639540465.590916]: Subpix refinement failed for point: 10 with displacement: 1.4894(point removed) 
+
+[DEBUG] [1639540465.590946]: Subpix refinement failed for point: 11 with displacement: 1.43532(point removed) 
+
+[DEBUG] [1639540465.590956]: Subpix refinement failed for point: 24 with displacement: 1.36942(point removed) 
+
+[DEBUG] [1639540465.590964]: Subpix refinement failed for point: 30 with displacement: 1.46499(point removed) 
+
+[DEBUG] [1639540465.590971]: Subpix refinement failed for point: 31 with displacement: 1.88909(point removed) 
+
+[DEBUG] [1639540465.590977]: Subpix refinement failed for point: 43 with displacement: 1.62536(point removed) 
+
+[DEBUG] [1639540465.590984]: Subpix refinement failed for point: 42 with displacement: 1.48969(point removed) 
+
+[DEBUG] [1639540465.590990]: Subpix refinement failed for point: 32 with displacement: 1.30539(point removed) 
+
+[DEBUG] [1639540465.590997]: Subpix refinement failed for point: 44 with displacement: 1.35824(point removed) 
+
+[DEBUG] [1639540465.591004]: Subpix refinement failed for point: 47 with displacement: 1.76599(point removed) 
+
+[DEBUG] [1639540465.591010]: Subpix refinement failed for point: 46 with displacement: 1.67934(point removed) 
+
+[DEBUG] [1639540465.591017]: Subpix refinement failed for point: 48 with displacement: 2.14743(point removed) 
+
+[DEBUG] [1639540465.591023]: Subpix refinement failed for point: 49 with displacement: 1.93059(point removed) 
+
+[DEBUG] [1639540465.591030]: Subpix refinement failed for point: 61 with displacement: 1.80172(point removed) 
+
+[DEBUG] [1639540465.591036]: Subpix refinement failed for point: 60 with displacement: 1.74549(point removed) 
+
+[DEBUG] [1639540465.591043]: Subpix refinement failed for point: 51 with displacement: 1.31438(point removed) 
+
+[DEBUG] [1639540465.591050]: Subpix refinement failed for point: 52 with displacement: 1.25999(point removed) 
+
+[DEBUG] [1639540465.591056]: Subpix refinement failed for point: 53 with displacement: 1.94768(point removed) 
+
+[DEBUG] [1639540465.591063]: Subpix refinement failed for point: 65 with displacement: 2.43749(point removed) 
+
+[DEBUG] [1639540465.591069]: Subpix refinement failed for point: 64 with displacement: 1.58181(point removed) 
+
+[DEBUG] [1639540465.591076]: Subpix refinement failed for point: 54 with displacement: 2.18689(point removed) 
+
+[DEBUG] [1639540465.591082]: Subpix refinement failed for point: 55 with displacement: 1.71624(point removed) 
+
+[DEBUG] [1639540465.591089]: Subpix refinement failed for point: 67 with displacement: 1.74035(point removed) 
+
+[DEBUG] [1639540465.591095]: Subpix refinement failed for point: 66 with displacement: 1.47283(point removed) 
+
+[DEBUG] [1639540465.591102]: Subpix refinement failed for point: 56 with displacement: 1.86678(point removed) 
+
+[DEBUG] [1639540465.591108]: Subpix refinement failed for point: 57 with displacement: 1.38449(point removed) 
+
+[DEBUG] [1639540465.591115]: Subpix refinement failed for point: 59 with displacement: 2.18071(point removed) 
+
+[DEBUG] [1639540465.591122]: Subpix refinement failed for point: 71 with displacement: 2.30645(point removed) 
+
+[DEBUG] [1639540465.591128]: Subpix refinement failed for point: 70 with displacement: 1.34556(point removed) 
+
+[DEBUG] [1639540465.591135]: Subpix refinement failed for point: 74 with displacement: 1.56054(point removed) 
+
+[DEBUG] [1639540465.591144]: Subpix refinement failed for point: 75 with displacement: 1.48984(point removed) 
+
+[DEBUG] [1639540465.591150]: Subpix refinement failed for point: 87 with displacement: 1.58819(point removed) 
+
+[DEBUG] [1639540465.591157]: Subpix refinement failed for point: 76 with displacement: 1.59948(point removed) 
+
+[DEBUG] [1639540465.591163]: Subpix refinement failed for point: 77 with displacement: 1.38551(point removed) 
+
+[DEBUG] [1639540465.591170]: Subpix refinement failed for point: 89 with displacement: 1.82175(point removed) 
+
+[DEBUG] [1639540465.591176]: Subpix refinement failed for point: 88 with displacement: 1.68976(point removed) 
+
+[DEBUG] [1639540465.591196]: Subpix refinement failed for point: 93 with displacement: 2.16459(point removed) 
+
+[DEBUG] [1639540465.591204]: Subpix refinement failed for point: 95 with displacement: 1.23839(point removed) 
+
+[DEBUG] [1639540465.591210]: Subpix refinement failed for point: 96 with displacement: 1.71182(point removed) 
+
+[DEBUG] [1639540465.591217]: Subpix refinement failed for point: 109 with displacement: 1.48268(point removed) 
+
+[DEBUG] [1639540465.591223]: Subpix refinement failed for point: 108 with displacement: 1.84759(point removed) 
+
+[DEBUG] [1639540465.591230]: Subpix refinement failed for point: 98 with displacement: 1.53444(point removed) 
+
+[DEBUG] [1639540465.591237]: Subpix refinement failed for point: 111 with displacement: 1.37196(point removed) 
+
+[DEBUG] [1639540465.591243]: Subpix refinement failed for point: 100 with displacement: 1.90943(point removed) 
+
+[DEBUG] [1639540465.591250]: Subpix refinement failed for point: 101 with displacement: 1.63154(point removed) 
+
+[DEBUG] [1639540465.591257]: Subpix refinement failed for point: 112 with displacement: 1.39471(point removed) 
+
+[DEBUG] [1639540465.591263]: Subpix refinement failed for point: 103 with displacement: 1.35835(point removed) 
+
+[DEBUG] [1639540465.591270]: Subpix refinement failed for point: 115 with displacement: 2.06086(point removed) 
+
+[DEBUG] [1639540465.591276]: Subpix refinement failed for point: 104 with displacement: 1.26534(point removed) 
+
+[DEBUG] [1639540465.591283]: Subpix refinement failed for point: 106 with displacement: 1.38798(point removed) 
+
+[DEBUG] [1639540465.591290]: Subpix refinement failed for point: 118 with displacement: 1.52254(point removed) 
+
+[DEBUG] [1639540465.591297]: Subpix refinement failed for point: 120 with displacement: 1.95359(point removed) 
+
+[DEBUG] [1639540465.591303]: Subpix refinement failed for point: 133 with displacement: 1.8666(point removed) 
+
+[DEBUG] [1639540465.591310]: Subpix refinement failed for point: 132 with displacement: 2.40268(point removed) 
+
+[DEBUG] [1639540465.591317]: Subpix refinement failed for point: 124 with displacement: 1.28061(point removed) 
+
+[DEBUG] [1639540465.591323]: Subpix refinement failed for point: 137 with displacement: 1.83877(point removed) 
+
+[DEBUG] [1639540465.591330]: Subpix refinement failed for point: 139 with displacement: 1.71884(point removed) 
+
+[DEBUG] [1639540465.591337]: Subpix refinement failed for point: 128 with displacement: 1.49423(point removed) 
+
+  Progress 2 / 44 	 Time remaining: 5m 31s                 
+(Aprilgrid: Tag detection:4512): GLib-GObject-CRITICAL **: 19:54:35.210: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[DEBUG] [1639540475.329892]: Subpix refinement failed for point: 12 with displacement: 1.83755(point removed) 
+
+[DEBUG] [1639540475.329912]: Subpix refinement failed for point: 2 with displacement: 1.23623(point removed) 
+
+[DEBUG] [1639540475.329920]: Subpix refinement failed for point: 3 with displacement: 1.40083(point removed) 
+
+[DEBUG] [1639540475.329926]: Subpix refinement failed for point: 15 with displacement: 1.71487(point removed) 
+
+[DEBUG] [1639540475.329933]: Subpix refinement failed for point: 14 with displacement: 1.78171(point removed) 
+
+[DEBUG] [1639540475.329940]: Subpix refinement failed for point: 4 with displacement: 2.16201(point removed) 
+
+[DEBUG] [1639540475.329947]: Subpix refinement failed for point: 6 with displacement: 1.66004(point removed) 
+
+[DEBUG] [1639540475.329953]: Subpix refinement failed for point: 7 with displacement: 1.90456(point removed) 
+
+[DEBUG] [1639540475.329960]: Subpix refinement failed for point: 19 with displacement: 1.26893(point removed) 
+
+[DEBUG] [1639540475.329967]: Subpix refinement failed for point: 20 with displacement: 1.36441(point removed) 
+
+[DEBUG] [1639540475.329974]: Subpix refinement failed for point: 11 with displacement: 1.35193(point removed) 
+
+[DEBUG] [1639540475.329980]: Subpix refinement failed for point: 23 with displacement: 2.17502(point removed) 
+
+[DEBUG] [1639540475.329988]: Subpix refinement failed for point: 28 with displacement: 1.37542(point removed) 
+
+[DEBUG] [1639540475.329995]: Subpix refinement failed for point: 31 with displacement: 1.27648(point removed) 
+
+[DEBUG] [1639540475.330002]: Subpix refinement failed for point: 43 with displacement: 1.70581(point removed) 
+
+[DEBUG] [1639540475.330008]: Subpix refinement failed for point: 45 with displacement: 1.25769(point removed) 
+
+[DEBUG] [1639540475.330015]: Subpix refinement failed for point: 46 with displacement: 1.62357(point removed) 
+
+[DEBUG] [1639540475.330022]: Subpix refinement failed for point: 48 with displacement: 1.43005(point removed) 
+
+[DEBUG] [1639540475.330029]: Subpix refinement failed for point: 61 with displacement: 1.67829(point removed) 
+
+[DEBUG] [1639540475.330035]: Subpix refinement failed for point: 50 with displacement: 1.33358(point removed) 
+
+[DEBUG] [1639540475.330042]: Subpix refinement failed for point: 51 with displacement: 1.99287(point removed) 
+
+[DEBUG] [1639540475.330048]: Subpix refinement failed for point: 63 with displacement: 1.96623(point removed) 
+
+[DEBUG] [1639540475.330055]: Subpix refinement failed for point: 62 with displacement: 1.65249(point removed) 
+
+[DEBUG] [1639540475.330061]: Subpix refinement failed for point: 53 with displacement: 1.79403(point removed) 
+
+[DEBUG] [1639540475.330069]: Subpix refinement failed for point: 69 with displacement: 1.41052(point removed) 
+
+[DEBUG] [1639540475.330075]: Subpix refinement failed for point: 68 with displacement: 1.70931(point removed) 
+
+[DEBUG] [1639540475.330082]: Subpix refinement failed for point: 58 with displacement: 2.45631(point removed) 
+
+[DEBUG] [1639540475.330089]: Subpix refinement failed for point: 59 with displacement: 1.48818(point removed) 
+
+[DEBUG] [1639540475.330095]: Subpix refinement failed for point: 70 with displacement: 1.34787(point removed) 
+
+[DEBUG] [1639540475.330102]: Subpix refinement failed for point: 72 with displacement: 1.84618(point removed) 
+
+[DEBUG] [1639540475.330108]: Subpix refinement failed for point: 85 with displacement: 1.82207(point removed) 
+
+[DEBUG] [1639540475.330115]: Subpix refinement failed for point: 74 with displacement: 1.82237(point removed) 
+
+[DEBUG] [1639540475.330122]: Subpix refinement failed for point: 87 with displacement: 1.64307(point removed) 
+
+[DEBUG] [1639540475.330128]: Subpix refinement failed for point: 86 with displacement: 1.44623(point removed) 
+
+[DEBUG] [1639540475.330136]: Subpix refinement failed for point: 77 with displacement: 1.4562(point removed) 
+
+[DEBUG] [1639540475.330142]: Subpix refinement failed for point: 89 with displacement: 1.29898(point removed) 
+
+[DEBUG] [1639540475.330149]: Subpix refinement failed for point: 78 with displacement: 1.33925(point removed) 
+
+[DEBUG] [1639540475.330156]: Subpix refinement failed for point: 91 with displacement: 1.80459(point removed) 
+
+[DEBUG] [1639540475.330162]: Subpix refinement failed for point: 90 with displacement: 1.80827(point removed) 
+
+[DEBUG] [1639540475.330169]: Subpix refinement failed for point: 81 with displacement: 2.06551(point removed) 
+
+[DEBUG] [1639540475.330175]: Subpix refinement failed for point: 93 with displacement: 2.07074(point removed) 
+
+[DEBUG] [1639540475.330182]: Subpix refinement failed for point: 96 with displacement: 1.52035(point removed) 
+
+[DEBUG] [1639540475.330189]: Subpix refinement failed for point: 99 with displacement: 1.60036(point removed) 
+
+[DEBUG] [1639540475.330196]: Subpix refinement failed for point: 111 with displacement: 2.09793(point removed) 
+
+[DEBUG] [1639540475.330203]: Subpix refinement failed for point: 113 with displacement: 1.62057(point removed) 
+
+[DEBUG] [1639540475.330209]: Subpix refinement failed for point: 102 with displacement: 1.28536(point removed) 
+
+[DEBUG] [1639540475.330216]: Subpix refinement failed for point: 103 with displacement: 1.33239(point removed) 
+
+[DEBUG] [1639540475.330223]: Subpix refinement failed for point: 115 with displacement: 1.49689(point removed) 
+
+[DEBUG] [1639540475.330229]: Subpix refinement failed for point: 104 with displacement: 1.28756(point removed) 
+
+[DEBUG] [1639540475.330236]: Subpix refinement failed for point: 105 with displacement: 1.39208(point removed) 
+
+[DEBUG] [1639540475.330242]: Subpix refinement failed for point: 117 with displacement: 1.47474(point removed) 
+
+[DEBUG] [1639540475.330249]: Subpix refinement failed for point: 116 with displacement: 1.36104(point removed) 
+
+[DEBUG] [1639540475.330255]: Subpix refinement failed for point: 106 with displacement: 1.79137(point removed) 
+
+[DEBUG] [1639540475.330262]: Subpix refinement failed for point: 107 with displacement: 1.43525(point removed) 
+
+[DEBUG] [1639540475.330268]: Subpix refinement failed for point: 118 with displacement: 1.81043(point removed) 
+
+[DEBUG] [1639540475.330275]: Subpix refinement failed for point: 122 with displacement: 1.94747(point removed) 
+
+[DEBUG] [1639540475.330282]: Subpix refinement failed for point: 123 with displacement: 1.23705(point removed) 
+
+[DEBUG] [1639540475.330289]: Subpix refinement failed for point: 135 with displacement: 1.48546(point removed) 
+
+[DEBUG] [1639540475.330295]: Subpix refinement failed for point: 134 with displacement: 1.68097(point removed) 
+
+[DEBUG] [1639540475.330315]: Subpix refinement failed for point: 127 with displacement: 2.01086(point removed) 
+
+[DEBUG] [1639540475.330322]: Subpix refinement failed for point: 138 with displacement: 1.80905(point removed) 
+
+[DEBUG] [1639540475.330329]: Subpix refinement failed for point: 129 with displacement: 1.99318(point removed) 
+
+[DEBUG] [1639540475.330335]: Subpix refinement failed for point: 141 with displacement: 1.33519(point removed) 
+
+[DEBUG] [1639540475.330342]: Subpix refinement failed for point: 131 with displacement: 1.245(point removed) 
+
+[DEBUG] [1639540475.330349]: Subpix refinement failed for point: 143 with displacement: 1.48867(point removed) 
+
+  Progress 3 / 44 	 Time remaining: 5m 49s                 [DEBUG] [1639540485.129356]: Subpix refinement failed for point: 13 with displacement: 1.69984(point removed) 
+
+[DEBUG] [1639540485.129387]: Subpix refinement failed for point: 12 with displacement: 1.34162(point removed) 
+
+[DEBUG] [1639540485.129394]: Subpix refinement failed for point: 2 with displacement: 1.28204(point removed) 
+
+[DEBUG] [1639540485.129401]: Subpix refinement failed for point: 3 with displacement: 1.53202(point removed) 
+
+[DEBUG] [1639540485.129408]: Subpix refinement failed for point: 19 with displacement: 1.26561(point removed) 
+
+[DEBUG] [1639540485.129415]: Subpix refinement failed for point: 8 with displacement: 1.67586(point removed) 
+
+[DEBUG] [1639540485.129422]: Subpix refinement failed for point: 9 with displacement: 1.96377(point removed) 
+
+[DEBUG] [1639540485.129429]: Subpix refinement failed for point: 22 with displacement: 1.31116(point removed) 
+
+[DEBUG] [1639540485.129437]: Subpix refinement failed for point: 40 with displacement: 1.70317(point removed) 
+
+[DEBUG] [1639540485.129444]: Subpix refinement failed for point: 33 with displacement: 1.40827(point removed) 
+
+[DEBUG] [1639540485.129451]: Subpix refinement failed for point: 45 with displacement: 1.83884(point removed) 
+
+[DEBUG] [1639540485.129457]: Subpix refinement failed for point: 34 with displacement: 1.70589(point removed) 
+
+[DEBUG] [1639540485.129464]: Subpix refinement failed for point: 35 with displacement: 1.75632(point removed) 
+
+[DEBUG] [1639540485.129471]: Subpix refinement failed for point: 50 with displacement: 1.41487(point removed) 
+
+[DEBUG] [1639540485.129478]: Subpix refinement failed for point: 51 with displacement: 1.42326(point removed) 
+
+[DEBUG] [1639540485.129484]: Subpix refinement failed for point: 63 with displacement: 1.41762(point removed) 
+
+[DEBUG] [1639540485.129491]: Subpix refinement failed for point: 62 with displacement: 1.7379(point removed) 
+
+[DEBUG] [1639540485.129498]: Subpix refinement failed for point: 64 with displacement: 1.89969(point removed) 
+
+[DEBUG] [1639540485.129505]: Subpix refinement failed for point: 58 with displacement: 1.27613(point removed) 
+
+[DEBUG] [1639540485.129513]: Subpix refinement failed for point: 73 with displacement: 1.77521(point removed) 
+
+[DEBUG] [1639540485.129519]: Subpix refinement failed for point: 74 with displacement: 1.80791(point removed) 
+
+[DEBUG] [1639540485.129526]: Subpix refinement failed for point: 87 with displacement: 1.63155(point removed) 
+
+[DEBUG] [1639540485.129532]: Subpix refinement failed for point: 86 with displacement: 1.44578(point removed) 
+
+[DEBUG] [1639540485.129539]: Subpix refinement failed for point: 88 with displacement: 1.23377(point removed) 
+
+[DEBUG] [1639540485.129546]: Subpix refinement failed for point: 90 with displacement: 1.54981(point removed) 
+
+[DEBUG] [1639540485.129555]: Subpix refinement failed for point: 105 with displacement: 1.84842(point removed) 
+
+[DEBUG] [1639540485.129562]: Subpix refinement failed for point: 117 with displacement: 1.49101(point removed) 
+
+[DEBUG] [1639540485.129570]: Subpix refinement failed for point: 123 with displacement: 1.4456(point removed) 
+
+[DEBUG] [1639540485.129577]: Subpix refinement failed for point: 125 with displacement: 1.77845(point removed) 
+
+[DEBUG] [1639540485.129583]: Subpix refinement failed for point: 137 with displacement: 1.88698(point removed) 
+
+[DEBUG] [1639540485.129590]: Subpix refinement failed for point: 136 with displacement: 1.39705(point removed) 
+
+[DEBUG] [1639540485.129597]: Subpix refinement failed for point: 139 with displacement: 1.91343(point removed) 
+
+[DEBUG] [1639540485.129604]: Subpix refinement failed for point: 128 with displacement: 1.8095(point removed) 
+
+[DEBUG] [1639540485.129610]: Subpix refinement failed for point: 129 with displacement: 1.61671(point removed) 
+
+  Progress 4 / 44 	 Time remaining: 5m 53s                 [DEBUG] [1639540494.433854]: Subpix refinement failed for point: 0 with displacement: 1.33869(point removed) 
+
+[DEBUG] [1639540494.433881]: Subpix refinement failed for point: 16 with displacement: 1.332(point removed) 
+
+[DEBUG] [1639540494.433890]: Subpix refinement failed for point: 27 with displacement: 1.5744(point removed) 
+
+[DEBUG] [1639540494.433897]: Subpix refinement failed for point: 28 with displacement: 1.40771(point removed) 
+
+[DEBUG] [1639540494.433904]: Subpix refinement failed for point: 40 with displacement: 1.24965(point removed) 
+
+[DEBUG] [1639540494.433911]: Subpix refinement failed for point: 30 with displacement: 1.67887(point removed) 
+
+[DEBUG] [1639540494.433918]: Subpix refinement failed for point: 34 with displacement: 1.8011(point removed) 
+
+[DEBUG] [1639540494.433925]: Subpix refinement failed for point: 46 with displacement: 1.35719(point removed) 
+
+[DEBUG] [1639540494.433934]: Subpix refinement failed for point: 75 with displacement: 1.40344(point removed) 
+
+[DEBUG] [1639540494.433941]: Subpix refinement failed for point: 77 with displacement: 1.95274(point removed) 
+
+[DEBUG] [1639540494.433947]: Subpix refinement failed for point: 89 with displacement: 1.24399(point removed) 
+
+[DEBUG] [1639540494.433954]: Subpix refinement failed for point: 79 with displacement: 1.6119(point removed) 
+
+[DEBUG] [1639540494.433962]: Subpix refinement failed for point: 96 with displacement: 1.31569(point removed) 
+
+[DEBUG] [1639540494.433968]: Subpix refinement failed for point: 97 with displacement: 1.27505(point removed) 
+
+[DEBUG] [1639540494.433975]: Subpix refinement failed for point: 99 with displacement: 1.58998(point removed) 
+
+[DEBUG] [1639540494.433982]: Subpix refinement failed for point: 111 with displacement: 1.44695(point removed) 
+
+[DEBUG] [1639540494.433988]: Subpix refinement failed for point: 110 with displacement: 1.27297(point removed) 
+
+[DEBUG] [1639540494.433995]: Subpix refinement failed for point: 115 with displacement: 1.28994(point removed) 
+
+[DEBUG] [1639540494.434003]: Subpix refinement failed for point: 119 with displacement: 1.41587(point removed) 
+
+[DEBUG] [1639540494.434009]: Subpix refinement failed for point: 118 with displacement: 2.08214(point removed) 
+
+[DEBUG] [1639540494.434016]: Subpix refinement failed for point: 121 with displacement: 1.27741(point removed) 
+
+[DEBUG] [1639540494.434023]: Subpix refinement failed for point: 133 with displacement: 1.25468(point removed) 
+
+[DEBUG] [1639540494.434029]: Subpix refinement failed for point: 123 with displacement: 1.66045(point removed) 
+
+[DEBUG] [1639540494.434036]: Subpix refinement failed for point: 135 with displacement: 1.79226(point removed) 
+
+[DEBUG] [1639540494.434042]: Subpix refinement failed for point: 124 with displacement: 1.57468(point removed) 
+
+[DEBUG] [1639540494.434049]: Subpix refinement failed for point: 125 with displacement: 1.28637(point removed) 
+
+[DEBUG] [1639540494.434056]: Subpix refinement failed for point: 129 with displacement: 1.83844(point removed) 
+
+  Progress 5 / 44 	 Time remaining: 5m 48s                 [DEBUG] [1639540503.652448]: Subpix refinement failed for point: 6 with displacement: 1.27047(point removed) 
+
+[DEBUG] [1639540503.652479]: Subpix refinement failed for point: 24 with displacement: 1.27599(point removed) 
+
+[DEBUG] [1639540503.652487]: Subpix refinement failed for point: 32 with displacement: 1.27671(point removed) 
+
+[DEBUG] [1639540503.652494]: Subpix refinement failed for point: 44 with displacement: 1.72826(point removed) 
+
+[DEBUG] [1639540503.652507]: Subpix refinement failed for point: 99 with displacement: 1.29659(point removed) 
+
+[DEBUG] [1639540503.652513]: Subpix refinement failed for point: 111 with displacement: 1.25824(point removed) 
+
+[DEBUG] [1639540503.652520]: Subpix refinement failed for point: 101 with displacement: 1.28731(point removed) 
+
+[DEBUG] [1639540503.652527]: Subpix refinement failed for point: 113 with displacement: 1.74687(point removed) 
+
+[DEBUG] [1639540503.652535]: Subpix refinement failed for point: 120 with displacement: 1.78242(point removed) 
+
+[DEBUG] [1639540503.652542]: Subpix refinement failed for point: 132 with displacement: 1.80604(point removed) 
+
+[DEBUG] [1639540503.652549]: Subpix refinement failed for point: 126 with displacement: 1.42096(point removed) 
+
+[DEBUG] [1639540503.652556]: Subpix refinement failed for point: 127 with displacement: 1.24617(point removed) 
+
+[DEBUG] [1639540503.652562]: Subpix refinement failed for point: 138 with displacement: 1.50577(point removed) 
+
+  Progress 6 / 44 	 Time remaining: 5m 41s                 [DEBUG] [1639540513.114696]: Subpix refinement failed for point: 31 with displacement: 1.45987(point removed) 
+
+[DEBUG] [1639540513.115015]: Subpix refinement failed for point: 47 with displacement: 1.23633(point removed) 
+
+[DEBUG] [1639540513.115038]: Subpix refinement failed for point: 52 with displacement: 1.27341(point removed) 
+
+[DEBUG] [1639540513.115063]: Subpix refinement failed for point: 55 with displacement: 1.27798(point removed) 
+
+[DEBUG] [1639540513.115073]: Subpix refinement failed for point: 91 with displacement: 1.54417(point removed) 
+
+[DEBUG] [1639540513.115079]: Subpix refinement failed for point: 81 with displacement: 1.25421(point removed) 
+
+[DEBUG] [1639540513.115086]: Subpix refinement failed for point: 93 with displacement: 1.30727(point removed) 
+
+[DEBUG] [1639540513.115095]: Subpix refinement failed for point: 117 with displacement: 1.50815(point removed) 
+
+[DEBUG] [1639540513.115101]: Subpix refinement failed for point: 116 with displacement: 1.64316(point removed) 
+
+[DEBUG] [1639540513.115109]: Subpix refinement failed for point: 135 with displacement: 1.22548(point removed) 
+
+[DEBUG] [1639540513.115116]: Subpix refinement failed for point: 126 with displacement: 1.23543(point removed) 
+
+  Progress 7 / 44 	 Time remaining: 5m 34s                 [DEBUG] [1639540522.514075]: Subpix refinement failed for point: 110 with displacement: 1.36441(point removed) 
+
+[DEBUG] [1639540522.514444]: Subpix refinement failed for point: 115 with displacement: 1.30653(point removed) 
+
+[DEBUG] [1639540522.514454]: Subpix refinement failed for point: 134 with displacement: 1.54918(point removed) 
+
+  Progress 10 / 44 	 Time remaining: 5m 10s                 [DEBUG] [1639540550.716819]: Subpix refinement failed for point: 122 with displacement: 1.53995(point removed) 
+
+[DEBUG] [1639540550.717250]: Subpix refinement failed for point: 134 with displacement: 1.5263(point removed) 
+
+  Progress 11 / 44 	 Time remaining: 5m 2s                 [DEBUG] [1639540560.180459]: Subpix refinement failed for point: 75 with displacement: 1.34444(point removed) 
+
+[DEBUG] [1639540560.180857]: Subpix refinement failed for point: 87 with displacement: 1.77686(point removed) 
+
+[DEBUG] [1639540560.180868]: Subpix refinement failed for point: 98 with displacement: 1.38104(point removed) 
+
+[DEBUG] [1639540560.180876]: Subpix refinement failed for point: 115 with displacement: 1.31453(point removed) 
+
+  Progress 12 / 44 	 Time remaining: 4m 54s                 [DEBUG] [1639540569.639441]: Subpix refinement failed for point: 29 with displacement: 1.76193(point removed) 
+
+  Progress 13 / 44 	 Time remaining: 4m 45s                 [DEBUG] [1639540579.101651]: Subpix refinement failed for point: 113 with displacement: 1.32447(point removed) 
+
+[DEBUG] [1639540579.102353]: Subpix refinement failed for point: 134 with displacement: 1.30077(point removed) 
+
+  Progress 14 / 44 	 Time remaining: 4m 37s                 [DEBUG] [1639540588.397408]: Subpix refinement failed for point: 88 with displacement: 1.4337(point removed) 
+
+  Progress 15 / 44 	 Time remaining: 4m 28s                 [DEBUG] [1639540597.809219]: Subpix refinement failed for point: 5 with displacement: 1.72461(point removed) 
+
+[DEBUG] [1639540597.809630]: Subpix refinement failed for point: 41 with displacement: 1.51181(point removed) 
+
+[DEBUG] [1639540597.809639]: Subpix refinement failed for point: 30 with displacement: 1.39229(point removed) 
+
+[DEBUG] [1639540597.809647]: Subpix refinement failed for point: 35 with displacement: 1.37955(point removed) 
+
+[DEBUG] [1639540597.809654]: Subpix refinement failed for point: 46 with displacement: 1.53218(point removed) 
+
+[DEBUG] [1639540597.809662]: Subpix refinement failed for point: 50 with displacement: 1.87904(point removed) 
+
+[DEBUG] [1639540597.809669]: Subpix refinement failed for point: 62 with displacement: 1.44582(point removed) 
+
+[DEBUG] [1639540597.809677]: Subpix refinement failed for point: 57 with displacement: 1.42801(point removed) 
+
+[DEBUG] [1639540597.809684]: Subpix refinement failed for point: 69 with displacement: 1.72761(point removed) 
+
+[DEBUG] [1639540597.809691]: Subpix refinement failed for point: 58 with displacement: 1.38125(point removed) 
+
+[DEBUG] [1639540597.809698]: Subpix refinement failed for point: 70 with displacement: 1.52905(point removed) 
+
+[DEBUG] [1639540597.809739]: Subpix refinement failed for point: 84 with displacement: 1.54075(point removed) 
+
+[DEBUG] [1639540597.809746]: Subpix refinement failed for point: 74 with displacement: 1.29898(point removed) 
+
+[DEBUG] [1639540597.809754]: Subpix refinement failed for point: 82 with displacement: 1.61484(point removed) 
+
+[DEBUG] [1639540597.809762]: Subpix refinement failed for point: 98 with displacement: 1.36756(point removed) 
+
+[DEBUG] [1639540597.809769]: Subpix refinement failed for point: 99 with displacement: 1.92286(point removed) 
+
+[DEBUG] [1639540597.809776]: Subpix refinement failed for point: 113 with displacement: 1.25816(point removed) 
+
+[DEBUG] [1639540597.809784]: Subpix refinement failed for point: 120 with displacement: 1.61645(point removed) 
+
+[DEBUG] [1639540597.809792]: Subpix refinement failed for point: 132 with displacement: 1.46168(point removed) 
+
+  Progress 16 / 44 	 Time remaining: 4m 19s                 [DEBUG] [1639540607.249243]: Subpix refinement failed for point: 6 with displacement: 1.44586(point removed) 
+
+[DEBUG] [1639540607.249571]: Subpix refinement failed for point: 49 with displacement: 1.2273(point removed) 
+
+[DEBUG] [1639540607.249580]: Subpix refinement failed for point: 51 with displacement: 1.32351(point removed) 
+
+[DEBUG] [1639540607.249587]: Subpix refinement failed for point: 63 with displacement: 1.43958(point removed) 
+
+[DEBUG] [1639540607.249632]: Subpix refinement failed for point: 135 with displacement: 1.43741(point removed) 
+
+[DEBUG] [1639540607.249639]: Subpix refinement failed for point: 134 with displacement: 1.54195(point removed) 
+
+[DEBUG] [1639540607.249645]: Subpix refinement failed for point: 124 with displacement: 1.23121(point removed) 
+
+[DEBUG] [1639540607.249653]: Subpix refinement failed for point: 131 with displacement: 1.39833(point removed) 
+
+[DEBUG] [1639540607.249660]: Subpix refinement failed for point: 143 with displacement: 1.4588(point removed) 
+
+  Progress 18 / 44 	 Time remaining: 4m 0s                 [DEBUG] [1639540625.827581]: Subpix refinement failed for point: 11 with displacement: 1.51237(point removed) 
+
+[DEBUG] [1639540625.827999]: Subpix refinement failed for point: 22 with displacement: 1.24873(point removed) 
+
+[DEBUG] [1639540625.828010]: Subpix refinement failed for point: 29 with displacement: 1.29429(point removed) 
+
+[DEBUG] [1639540625.828017]: Subpix refinement failed for point: 30 with displacement: 1.56078(point removed) 
+
+[DEBUG] [1639540625.828023]: Subpix refinement failed for point: 31 with displacement: 1.67608(point removed) 
+
+[DEBUG] [1639540625.828030]: Subpix refinement failed for point: 43 with displacement: 1.86117(point removed) 
+
+[DEBUG] [1639540625.828037]: Subpix refinement failed for point: 32 with displacement: 1.47512(point removed) 
+
+[DEBUG] [1639540625.828043]: Subpix refinement failed for point: 33 with displacement: 1.49895(point removed) 
+
+[DEBUG] [1639540625.828050]: Subpix refinement failed for point: 45 with displacement: 1.37051(point removed) 
+
+[DEBUG] [1639540625.828089]: Subpix refinement failed for point: 34 with displacement: 1.31786(point removed) 
+
+[DEBUG] [1639540625.828096]: Subpix refinement failed for point: 48 with displacement: 1.59766(point removed) 
+
+[DEBUG] [1639540625.828103]: Subpix refinement failed for point: 49 with displacement: 1.50094(point removed) 
+
+[DEBUG] [1639540625.828110]: Subpix refinement failed for point: 61 with displacement: 1.28057(point removed) 
+
+[DEBUG] [1639540625.828117]: Subpix refinement failed for point: 52 with displacement: 1.38639(point removed) 
+
+[DEBUG] [1639540625.828124]: Subpix refinement failed for point: 54 with displacement: 1.89625(point removed) 
+
+[DEBUG] [1639540625.828130]: Subpix refinement failed for point: 55 with displacement: 1.60237(point removed) 
+
+[DEBUG] [1639540625.828138]: Subpix refinement failed for point: 72 with displacement: 1.32548(point removed) 
+
+[DEBUG] [1639540625.828144]: Subpix refinement failed for point: 85 with displacement: 1.68544(point removed) 
+
+[DEBUG] [1639540625.828151]: Subpix refinement failed for point: 84 with displacement: 2.34783(point removed) 
+
+[DEBUG] [1639540625.828158]: Subpix refinement failed for point: 87 with displacement: 2.3022(point removed) 
+
+[DEBUG] [1639540625.828164]: Subpix refinement failed for point: 89 with displacement: 1.33163(point removed) 
+
+[DEBUG] [1639540625.828171]: Subpix refinement failed for point: 88 with displacement: 1.62985(point removed) 
+
+[DEBUG] [1639540625.828177]: Subpix refinement failed for point: 78 with displacement: 1.65579(point removed) 
+
+[DEBUG] [1639540625.828184]: Subpix refinement failed for point: 90 with displacement: 1.51125(point removed) 
+
+[DEBUG] [1639540625.828191]: Subpix refinement failed for point: 82 with displacement: 1.6764(point removed) 
+
+[DEBUG] [1639540625.828198]: Subpix refinement failed for point: 83 with displacement: 1.5479(point removed) 
+
+[DEBUG] [1639540625.828205]: Subpix refinement failed for point: 98 with displacement: 1.95207(point removed) 
+
+[DEBUG] [1639540625.828211]: Subpix refinement failed for point: 99 with displacement: 1.33017(point removed) 
+
+[DEBUG] [1639540625.828218]: Subpix refinement failed for point: 100 with displacement: 1.7556(point removed) 
+
+[DEBUG] [1639540625.828225]: Subpix refinement failed for point: 112 with displacement: 1.24889(point removed) 
+
+[DEBUG] [1639540625.828231]: Subpix refinement failed for point: 102 with displacement: 1.93227(point removed) 
+
+[DEBUG] [1639540625.828249]: Subpix refinement failed for point: 103 with displacement: 2.65031(point removed) 
+
+[DEBUG] [1639540625.828256]: Subpix refinement failed for point: 115 with displacement: 1.92726(point removed) 
+
+[DEBUG] [1639540625.828263]: Subpix refinement failed for point: 107 with displacement: 1.23198(point removed) 
+
+[DEBUG] [1639540625.828271]: Subpix refinement failed for point: 120 with displacement: 1.39021(point removed) 
+
+[DEBUG] [1639540625.828278]: Subpix refinement failed for point: 121 with displacement: 1.8781(point removed) 
+
+[DEBUG] [1639540625.828284]: Subpix refinement failed for point: 133 with displacement: 1.42775(point removed) 
+
+[DEBUG] [1639540625.828292]: Subpix refinement failed for point: 136 with displacement: 1.51942(point removed) 
+
+  Progress 19 / 44 	 Time remaining: 3m 51s                 [DEBUG] [1639540635.282566]: Subpix refinement failed for point: 0 with displacement: 2.08647(point removed) 
+
+[DEBUG] [1639540635.282881]: Subpix refinement failed for point: 15 with displacement: 1.57857(point removed) 
+
+[DEBUG] [1639540635.282889]: Subpix refinement failed for point: 14 with displacement: 1.48488(point removed) 
+
+[DEBUG] [1639540635.282897]: Subpix refinement failed for point: 4 with displacement: 1.65171(point removed) 
+
+[DEBUG] [1639540635.282903]: Subpix refinement failed for point: 17 with displacement: 1.28945(point removed) 
+
+[DEBUG] [1639540635.282911]: Subpix refinement failed for point: 9 with displacement: 1.61911(point removed) 
+
+[DEBUG] [1639540635.282917]: Subpix refinement failed for point: 21 with displacement: 1.30433(point removed) 
+
+[DEBUG] [1639540635.282924]: Subpix refinement failed for point: 23 with displacement: 1.78291(point removed) 
+
+[DEBUG] [1639540635.282931]: Subpix refinement failed for point: 22 with displacement: 1.60619(point removed) 
+
+[DEBUG] [1639540635.282938]: Subpix refinement failed for point: 37 with displacement: 1.68638(point removed) 
+
+[DEBUG] [1639540635.282945]: Subpix refinement failed for point: 36 with displacement: 2.21732(point removed) 
+
+[DEBUG] [1639540635.282982]: Subpix refinement failed for point: 26 with displacement: 1.26475(point removed) 
+
+[DEBUG] [1639540635.282990]: Subpix refinement failed for point: 30 with displacement: 1.74374(point removed) 
+
+[DEBUG] [1639540635.282997]: Subpix refinement failed for point: 43 with displacement: 1.45902(point removed) 
+
+[DEBUG] [1639540635.283005]: Subpix refinement failed for point: 49 with displacement: 2.2814(point removed) 
+
+[DEBUG] [1639540635.283012]: Subpix refinement failed for point: 50 with displacement: 1.77095(point removed) 
+
+[DEBUG] [1639540635.283018]: Subpix refinement failed for point: 51 with displacement: 1.28754(point removed) 
+
+[DEBUG] [1639540635.283025]: Subpix refinement failed for point: 53 with displacement: 1.37939(point removed) 
+
+[DEBUG] [1639540635.283032]: Subpix refinement failed for point: 65 with displacement: 1.68922(point removed) 
+
+[DEBUG] [1639540635.283039]: Subpix refinement failed for point: 64 with displacement: 1.3654(point removed) 
+
+[DEBUG] [1639540635.283047]: Subpix refinement failed for point: 72 with displacement: 1.58296(point removed) 
+
+[DEBUG] [1639540635.283053]: Subpix refinement failed for point: 84 with displacement: 1.60103(point removed) 
+
+[DEBUG] [1639540635.283060]: Subpix refinement failed for point: 74 with displacement: 1.76671(point removed) 
+
+[DEBUG] [1639540635.283066]: Subpix refinement failed for point: 75 with displacement: 2.07264(point removed) 
+
+[DEBUG] [1639540635.283073]: Subpix refinement failed for point: 87 with displacement: 1.63758(point removed) 
+
+[DEBUG] [1639540635.283080]: Subpix refinement failed for point: 86 with displacement: 1.3338(point removed) 
+
+[DEBUG] [1639540635.283088]: Subpix refinement failed for point: 95 with displacement: 1.28088(point removed) 
+
+[DEBUG] [1639540635.283094]: Subpix refinement failed for point: 97 with displacement: 2.08702(point removed) 
+
+[DEBUG] [1639540635.283101]: Subpix refinement failed for point: 99 with displacement: 1.24285(point removed) 
+
+[DEBUG] [1639540635.283108]: Subpix refinement failed for point: 111 with displacement: 1.34359(point removed) 
+
+[DEBUG] [1639540635.283115]: Subpix refinement failed for point: 113 with displacement: 1.37303(point removed) 
+
+[DEBUG] [1639540635.283122]: Subpix refinement failed for point: 102 with displacement: 1.38273(point removed) 
+
+[DEBUG] [1639540635.283128]: Subpix refinement failed for point: 114 with displacement: 1.35333(point removed) 
+
+[DEBUG] [1639540635.283135]: Subpix refinement failed for point: 104 with displacement: 1.27042(point removed) 
+
+[DEBUG] [1639540635.283143]: Subpix refinement failed for point: 105 with displacement: 1.26794(point removed) 
+
+[DEBUG] [1639540635.283150]: Subpix refinement failed for point: 118 with displacement: 1.24951(point removed) 
+
+[DEBUG] [1639540635.283157]: Subpix refinement failed for point: 135 with displacement: 1.24494(point removed) 
+
+[DEBUG] [1639540635.283164]: Subpix refinement failed for point: 134 with displacement: 1.40124(point removed) 
+
+[DEBUG] [1639540635.283170]: Subpix refinement failed for point: 124 with displacement: 2.08535(point removed) 
+
+[DEBUG] [1639540635.283177]: Subpix refinement failed for point: 137 with displacement: 1.33005(point removed) 
+
+[DEBUG] [1639540635.283184]: Subpix refinement failed for point: 136 with displacement: 1.77175(point removed) 
+
+[DEBUG] [1639540635.283191]: Subpix refinement failed for point: 138 with displacement: 1.41751(point removed) 
+
+[DEBUG] [1639540635.283197]: Subpix refinement failed for point: 128 with displacement: 1.78237(point removed) 
+
+[DEBUG] [1639540635.283204]: Subpix refinement failed for point: 129 with displacement: 1.95557(point removed) 
+
+[DEBUG] [1639540635.283210]: Subpix refinement failed for point: 141 with displacement: 1.98809(point removed) 
+
+[DEBUG] [1639540635.283217]: Subpix refinement failed for point: 140 with displacement: 1.6428(point removed) 
+
+  Progress 20 / 44 	 Time remaining: 3m 42s                 [DEBUG] [1639540644.465691]: Subpix refinement failed for point: 12 with displacement: 1.42632(point removed) 
+
+[DEBUG] [1639540644.466049]: Subpix refinement failed for point: 43 with displacement: 1.35339(point removed) 
+
+[DEBUG] [1639540644.466060]: Subpix refinement failed for point: 65 with displacement: 1.50006(point removed) 
+
+[DEBUG] [1639540644.466069]: Subpix refinement failed for point: 72 with displacement: 1.64893(point removed) 
+
+[DEBUG] [1639540644.466075]: Subpix refinement failed for point: 73 with displacement: 1.34857(point removed) 
+
+[DEBUG] [1639540644.466082]: Subpix refinement failed for point: 87 with displacement: 1.30181(point removed) 
+
+[DEBUG] [1639540644.466089]: Subpix refinement failed for point: 86 with displacement: 1.23479(point removed) 
+
+[DEBUG] [1639540644.466096]: Subpix refinement failed for point: 91 with displacement: 1.23521(point removed) 
+
+[DEBUG] [1639540644.466103]: Subpix refinement failed for point: 80 with displacement: 1.23641(point removed) 
+
+[DEBUG] [1639540644.466110]: Subpix refinement failed for point: 94 with displacement: 1.40791(point removed) 
+
+[DEBUG] [1639540644.466118]: Subpix refinement failed for point: 100 with displacement: 1.62873(point removed) 
+
+[DEBUG] [1639540644.466125]: Subpix refinement failed for point: 101 with displacement: 1.747(point removed) 
+
+[DEBUG] [1639540644.466134]: Subpix refinement failed for point: 126 with displacement: 1.53081(point removed) 
+
+  Progress 21 / 44 	 Time remaining: 3m 33s                 [DEBUG] [1639540653.710860]: Subpix refinement failed for point: 1 with displacement: 1.55744(point removed) 
+
+[DEBUG] [1639540653.711477]: Subpix refinement failed for point: 13 with displacement: 1.45071(point removed) 
+
+[DEBUG] [1639540653.711485]: Subpix refinement failed for point: 12 with displacement: 1.41184(point removed) 
+
+[DEBUG] [1639540653.711493]: Subpix refinement failed for point: 3 with displacement: 1.61931(point removed) 
+
+[DEBUG] [1639540653.711500]: Subpix refinement failed for point: 15 with displacement: 2.07934(point removed) 
+
+[DEBUG] [1639540653.711507]: Subpix refinement failed for point: 17 with displacement: 1.22489(point removed) 
+
+[DEBUG] [1639540653.711513]: Subpix refinement failed for point: 16 with displacement: 1.62217(point removed) 
+
+[DEBUG] [1639540653.711520]: Subpix refinement failed for point: 6 with displacement: 1.87942(point removed) 
+
+[DEBUG] [1639540653.711527]: Subpix refinement failed for point: 7 with displacement: 2.052(point removed) 
+
+[DEBUG] [1639540653.711533]: Subpix refinement failed for point: 19 with displacement: 2.12041(point removed) 
+
+[DEBUG] [1639540653.711572]: Subpix refinement failed for point: 18 with displacement: 1.91861(point removed) 
+
+[DEBUG] [1639540653.711580]: Subpix refinement failed for point: 23 with displacement: 1.29295(point removed) 
+
+[DEBUG] [1639540653.711587]: Subpix refinement failed for point: 22 with displacement: 1.82606(point removed) 
+
+[DEBUG] [1639540653.711594]: Subpix refinement failed for point: 26 with displacement: 1.8308(point removed) 
+
+[DEBUG] [1639540653.711600]: Subpix refinement failed for point: 27 with displacement: 1.42327(point removed) 
+
+[DEBUG] [1639540653.711608]: Subpix refinement failed for point: 43 with displacement: 1.95143(point removed) 
+
+[DEBUG] [1639540653.711614]: Subpix refinement failed for point: 42 with displacement: 1.94185(point removed) 
+
+[DEBUG] [1639540653.711621]: Subpix refinement failed for point: 33 with displacement: 1.83757(point removed) 
+
+[DEBUG] [1639540653.711628]: Subpix refinement failed for point: 44 with displacement: 2.79598(point removed) 
+
+[DEBUG] [1639540653.711634]: Subpix refinement failed for point: 47 with displacement: 1.30197(point removed) 
+
+[DEBUG] [1639540653.711641]: Subpix refinement failed for point: 48 with displacement: 1.74512(point removed) 
+
+[DEBUG] [1639540653.711647]: Subpix refinement failed for point: 49 with displacement: 1.45171(point removed) 
+
+[DEBUG] [1639540653.711654]: Subpix refinement failed for point: 50 with displacement: 1.59431(point removed) 
+
+[DEBUG] [1639540653.711661]: Subpix refinement failed for point: 62 with displacement: 2.56822(point removed) 
+
+[DEBUG] [1639540653.711668]: Subpix refinement failed for point: 65 with displacement: 1.29048(point removed) 
+
+[DEBUG] [1639540653.711674]: Subpix refinement failed for point: 64 with displacement: 1.45742(point removed) 
+
+[DEBUG] [1639540653.711681]: Subpix refinement failed for point: 67 with displacement: 1.67458(point removed) 
+
+[DEBUG] [1639540653.711687]: Subpix refinement failed for point: 66 with displacement: 1.74298(point removed) 
+
+[DEBUG] [1639540653.711694]: Subpix refinement failed for point: 56 with displacement: 1.89762(point removed) 
+
+[DEBUG] [1639540653.711701]: Subpix refinement failed for point: 57 with displacement: 1.35547(point removed) 
+
+[DEBUG] [1639540653.711707]: Subpix refinement failed for point: 68 with displacement: 1.51608(point removed) 
+
+[DEBUG] [1639540653.711714]: Subpix refinement failed for point: 71 with displacement: 1.55537(point removed) 
+
+[DEBUG] [1639540653.711720]: Subpix refinement failed for point: 70 with displacement: 1.36381(point removed) 
+
+[DEBUG] [1639540653.711727]: Subpix refinement failed for point: 72 with displacement: 1.32009(point removed) 
+
+[DEBUG] [1639540653.711735]: Subpix refinement failed for point: 73 with displacement: 1.46051(point removed) 
+
+[DEBUG] [1639540653.711741]: Subpix refinement failed for point: 85 with displacement: 2.03673(point removed) 
+
+[DEBUG] [1639540653.711748]: Subpix refinement failed for point: 75 with displacement: 1.82234(point removed) 
+
+[DEBUG] [1639540653.711754]: Subpix refinement failed for point: 86 with displacement: 1.52192(point removed) 
+
+[DEBUG] [1639540653.711761]: Subpix refinement failed for point: 76 with displacement: 1.95358(point removed) 
+
+[DEBUG] [1639540653.711768]: Subpix refinement failed for point: 77 with displacement: 2.47076(point removed) 
+
+[DEBUG] [1639540653.711774]: Subpix refinement failed for point: 88 with displacement: 1.7619(point removed) 
+
+[DEBUG] [1639540653.711781]: Subpix refinement failed for point: 80 with displacement: 1.52298(point removed) 
+
+[DEBUG] [1639540653.711788]: Subpix refinement failed for point: 92 with displacement: 1.72665(point removed) 
+
+[DEBUG] [1639540653.711795]: Subpix refinement failed for point: 94 with displacement: 1.25295(point removed) 
+
+[DEBUG] [1639540653.711801]: Subpix refinement failed for point: 96 with displacement: 2.16348(point removed) 
+
+[DEBUG] [1639540653.711808]: Subpix refinement failed for point: 97 with displacement: 1.6705(point removed) 
+
+[DEBUG] [1639540653.711815]: Subpix refinement failed for point: 109 with displacement: 2.1032(point removed) 
+
+[DEBUG] [1639540653.711821]: Subpix refinement failed for point: 108 with displacement: 1.60946(point removed) 
+
+[DEBUG] [1639540653.711828]: Subpix refinement failed for point: 99 with displacement: 1.82344(point removed) 
+
+[DEBUG] [1639540653.711836]: Subpix refinement failed for point: 117 with displacement: 1.75186(point removed) 
+
+[DEBUG] [1639540653.711843]: Subpix refinement failed for point: 118 with displacement: 1.2658(point removed) 
+
+[DEBUG] [1639540653.711850]: Subpix refinement failed for point: 125 with displacement: 1.36443(point removed) 
+
+[DEBUG] [1639540653.711856]: Subpix refinement failed for point: 137 with displacement: 1.82796(point removed) 
+
+[DEBUG] [1639540653.711863]: Subpix refinement failed for point: 138 with displacement: 2.54399(point removed) 
+
+[DEBUG] [1639540653.711870]: Subpix refinement failed for point: 129 with displacement: 1.63451(point removed) 
+
+[DEBUG] [1639540653.711877]: Subpix refinement failed for point: 130 with displacement: 1.36674(point removed) 
+
+[DEBUG] [1639540653.711883]: Subpix refinement failed for point: 143 with displacement: 1.61219(point removed) 
+
+[DEBUG] [1639540653.711890]: Subpix refinement failed for point: 142 with displacement: 2.23587(point removed) 
+
+  Progress 22 / 44 	 Time remaining: 3m 23s                 [DEBUG] [1639540663.044795]: Subpix refinement failed for point: 6 with displacement: 1.38234(point removed) 
+
+(Aprilgrid: Tag detection:4512): GLib-GObject-CRITICAL **: 19:57:43.033: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+[DEBUG] [1639540663.044819]: Subpix refinement failed for point: 23 with displacement: 1.46722(point removed) 
+
+[DEBUG] [1639540663.044827]: Subpix refinement failed for point: 24 with displacement: 1.44388(point removed) 
+
+[DEBUG] [1639540663.044834]: Subpix refinement failed for point: 37 with displacement: 1.28819(point removed) 
+
+[DEBUG] [1639540663.044841]: Subpix refinement failed for point: 29 with displacement: 1.48394(point removed) 
+
+[DEBUG] [1639540663.044848]: Subpix refinement failed for point: 41 with displacement: 1.60838(point removed) 
+
+[DEBUG] [1639540663.044854]: Subpix refinement failed for point: 31 with displacement: 1.32257(point removed) 
+
+[DEBUG] [1639540663.044861]: Subpix refinement failed for point: 43 with displacement: 1.57339(point removed) 
+
+[DEBUG] [1639540663.044868]: Subpix refinement failed for point: 34 with displacement: 1.37784(point removed) 
+
+[DEBUG] [1639540663.044876]: Subpix refinement failed for point: 61 with displacement: 1.26027(point removed) 
+
+[DEBUG] [1639540663.044883]: Subpix refinement failed for point: 60 with displacement: 1.56495(point removed) 
+
+[DEBUG] [1639540663.044890]: Subpix refinement failed for point: 65 with displacement: 1.26509(point removed) 
+
+[DEBUG] [1639540663.044897]: Subpix refinement failed for point: 54 with displacement: 1.31535(point removed) 
+
+[DEBUG] [1639540663.044904]: Subpix refinement failed for point: 57 with displacement: 1.93375(point removed) 
+
+[DEBUG] [1639540663.044910]: Subpix refinement failed for point: 69 with displacement: 1.81316(point removed) 
+
+[DEBUG] [1639540663.044917]: Subpix refinement failed for point: 71 with displacement: 1.54492(point removed) 
+
+[DEBUG] [1639540663.044924]: Subpix refinement failed for point: 70 with displacement: 1.43376(point removed) 
+
+[DEBUG] [1639540663.044932]: Subpix refinement failed for point: 79 with displacement: 1.41837(point removed) 
+
+[DEBUG] [1639540663.044938]: Subpix refinement failed for point: 91 with displacement: 1.48436(point removed) 
+
+[DEBUG] [1639540663.044945]: Subpix refinement failed for point: 92 with displacement: 1.35661(point removed) 
+
+[DEBUG] [1639540663.044952]: Subpix refinement failed for point: 82 with displacement: 1.40038(point removed) 
+
+[DEBUG] [1639540663.044959]: Subpix refinement failed for point: 83 with displacement: 1.34153(point removed) 
+
+[DEBUG] [1639540663.044965]: Subpix refinement failed for point: 95 with displacement: 2.17967(point removed) 
+
+[DEBUG] [1639540663.044972]: Subpix refinement failed for point: 94 with displacement: 1.63901(point removed) 
+
+[DEBUG] [1639540663.044979]: Subpix refinement failed for point: 108 with displacement: 1.86584(point removed) 
+
+[DEBUG] [1639540663.044985]: Subpix refinement failed for point: 99 with displacement: 1.26109(point removed) 
+
+[DEBUG] [1639540663.044992]: Subpix refinement failed for point: 111 with displacement: 1.57651(point removed) 
+
+[DEBUG] [1639540663.044999]: Subpix refinement failed for point: 110 with displacement: 1.27625(point removed) 
+
+[DEBUG] [1639540663.045005]: Subpix refinement failed for point: 101 with displacement: 1.33935(point removed) 
+
+[DEBUG] [1639540663.045012]: Subpix refinement failed for point: 113 with displacement: 1.32717(point removed) 
+
+[DEBUG] [1639540663.045019]: Subpix refinement failed for point: 115 with displacement: 1.45409(point removed) 
+
+[DEBUG] [1639540663.045025]: Subpix refinement failed for point: 114 with displacement: 1.44276(point removed) 
+
+[DEBUG] [1639540663.045032]: Subpix refinement failed for point: 117 with displacement: 1.79611(point removed) 
+
+[DEBUG] [1639540663.045039]: Subpix refinement failed for point: 116 with displacement: 1.6561(point removed) 
+
+[DEBUG] [1639540663.045046]: Subpix refinement failed for point: 106 with displacement: 1.27056(point removed) 
+
+[DEBUG] [1639540663.045053]: Subpix refinement failed for point: 120 with displacement: 1.25064(point removed) 
+
+[DEBUG] [1639540663.045060]: Subpix refinement failed for point: 135 with displacement: 1.64998(point removed) 
+
+[DEBUG] [1639540663.045067]: Subpix refinement failed for point: 134 with displacement: 1.56467(point removed) 
+
+[DEBUG] [1639540663.045074]: Subpix refinement failed for point: 125 with displacement: 2.00298(point removed) 
+
+[DEBUG] [1639540663.045081]: Subpix refinement failed for point: 126 with displacement: 1.73467(point removed) 
+
+[DEBUG] [1639540663.045087]: Subpix refinement failed for point: 127 with displacement: 1.30061(point removed) 
+
+[DEBUG] [1639540663.045094]: Subpix refinement failed for point: 139 with displacement: 1.53215(point removed) 
+
+[DEBUG] [1639540663.045100]: Subpix refinement failed for point: 138 with displacement: 1.37814(point removed) 
+
+  Progress 23 / 44 	 Time remaining: 3m 14s                 [DEBUG] [1639540672.610662]: Subpix refinement failed for point: 0 with displacement: 1.29456(point removed) 
+
+[DEBUG] [1639540672.611137]: Subpix refinement failed for point: 12 with displacement: 1.35293(point removed) 
+
+[DEBUG] [1639540672.611147]: Subpix refinement failed for point: 3 with displacement: 1.74771(point removed) 
+
+[DEBUG] [1639540672.611154]: Subpix refinement failed for point: 5 with displacement: 1.28745(point removed) 
+
+[DEBUG] [1639540672.611162]: Subpix refinement failed for point: 7 with displacement: 1.40049(point removed) 
+
+[DEBUG] [1639540672.611168]: Subpix refinement failed for point: 19 with displacement: 1.24283(point removed) 
+
+[DEBUG] [1639540672.611176]: Subpix refinement failed for point: 10 with displacement: 1.41085(point removed) 
+
+[DEBUG] [1639540672.611183]: Subpix refinement failed for point: 23 with displacement: 1.42338(point removed) 
+
+[DEBUG] [1639540672.611222]: Subpix refinement failed for point: 41 with displacement: 1.97029(point removed) 
+
+[DEBUG] [1639540672.611231]: Subpix refinement failed for point: 40 with displacement: 1.51784(point removed) 
+
+[DEBUG] [1639540672.611238]: Subpix refinement failed for point: 30 with displacement: 1.32099(point removed) 
+
+[DEBUG] [1639540672.611245]: Subpix refinement failed for point: 42 with displacement: 1.29729(point removed) 
+
+[DEBUG] [1639540672.611253]: Subpix refinement failed for point: 47 with displacement: 1.38757(point removed) 
+
+[DEBUG] [1639540672.611260]: Subpix refinement failed for point: 49 with displacement: 1.62247(point removed) 
+
+[DEBUG] [1639540672.611266]: Subpix refinement failed for point: 61 with displacement: 1.61068(point removed) 
+
+[DEBUG] [1639540672.611273]: Subpix refinement failed for point: 50 with displacement: 1.37381(point removed) 
+
+[DEBUG] [1639540672.611281]: Subpix refinement failed for point: 55 with displacement: 1.31888(point removed) 
+
+[DEBUG] [1639540672.611288]: Subpix refinement failed for point: 68 with displacement: 1.41355(point removed) 
+
+[DEBUG] [1639540672.611295]: Subpix refinement failed for point: 71 with displacement: 1.30926(point removed) 
+
+[DEBUG] [1639540672.611302]: Subpix refinement failed for point: 74 with displacement: 1.437(point removed) 
+
+[DEBUG] [1639540672.611309]: Subpix refinement failed for point: 75 with displacement: 1.93111(point removed) 
+
+[DEBUG] [1639540672.611315]: Subpix refinement failed for point: 86 with displacement: 1.4501(point removed) 
+
+[DEBUG] [1639540672.611323]: Subpix refinement failed for point: 79 with displacement: 1.28843(point removed) 
+
+[DEBUG] [1639540672.611329]: Subpix refinement failed for point: 90 with displacement: 1.59349(point removed) 
+
+[DEBUG] [1639540672.611336]: Subpix refinement failed for point: 93 with displacement: 1.29661(point removed) 
+
+[DEBUG] [1639540672.611343]: Subpix refinement failed for point: 82 with displacement: 1.73277(point removed) 
+
+[DEBUG] [1639540672.611350]: Subpix refinement failed for point: 94 with displacement: 1.91562(point removed) 
+
+[DEBUG] [1639540672.611357]: Subpix refinement failed for point: 109 with displacement: 1.53094(point removed) 
+
+[DEBUG] [1639540672.611364]: Subpix refinement failed for point: 110 with displacement: 1.3944(point removed) 
+
+[DEBUG] [1639540672.611371]: Subpix refinement failed for point: 100 with displacement: 1.90957(point removed) 
+
+[DEBUG] [1639540672.611377]: Subpix refinement failed for point: 101 with displacement: 2.20431(point removed) 
+
+[DEBUG] [1639540672.611384]: Subpix refinement failed for point: 103 with displacement: 1.95558(point removed) 
+
+[DEBUG] [1639540672.611393]: Subpix refinement failed for point: 133 with displacement: 1.34787(point removed) 
+
+[DEBUG] [1639540672.611399]: Subpix refinement failed for point: 132 with displacement: 1.49104(point removed) 
+
+[DEBUG] [1639540672.611408]: Subpix refinement failed for point: 124 with displacement: 1.60476(point removed) 
+
+[DEBUG] [1639540672.611414]: Subpix refinement failed for point: 125 with displacement: 1.34396(point removed) 
+
+[DEBUG] [1639540672.611421]: Subpix refinement failed for point: 137 with displacement: 1.58121(point removed) 
+
+[DEBUG] [1639540672.611428]: Subpix refinement failed for point: 136 with displacement: 2.03135(point removed) 
+
+[DEBUG] [1639540672.611434]: Subpix refinement failed for point: 126 with displacement: 1.89645(point removed) 
+
+[DEBUG] [1639540672.611441]: Subpix refinement failed for point: 127 with displacement: 1.96955(point removed) 
+
+[DEBUG] [1639540672.611448]: Subpix refinement failed for point: 141 with displacement: 1.34977(point removed) 
+
+  Progress 24 / 44 	 Time remaining: 3m 5s                 [DEBUG] [1639540682.188106]: Subpix refinement failed for point: 12 with displacement: 1.49805(point removed) 
+
+[DEBUG] [1639540682.188522]: Subpix refinement failed for point: 5 with displacement: 1.7363(point removed) 
+
+[DEBUG] [1639540682.188531]: Subpix refinement failed for point: 6 with displacement: 1.32156(point removed) 
+
+[DEBUG] [1639540682.188539]: Subpix refinement failed for point: 18 with displacement: 1.98392(point removed) 
+
+[DEBUG] [1639540682.188545]: Subpix refinement failed for point: 21 with displacement: 1.55042(point removed) 
+
+[DEBUG] [1639540682.188553]: Subpix refinement failed for point: 25 with displacement: 2.33331(point removed) 
+
+[DEBUG] [1639540682.188559]: Subpix refinement failed for point: 37 with displacement: 1.51966(point removed) 
+
+[DEBUG] [1639540682.188566]: Subpix refinement failed for point: 36 with displacement: 1.56454(point removed) 
+
+[DEBUG] [1639540682.188573]: Subpix refinement failed for point: 38 with displacement: 1.39792(point removed) 
+
+[DEBUG] [1639540682.188612]: Subpix refinement failed for point: 30 with displacement: 1.46384(point removed) 
+
+[DEBUG] [1639540682.188619]: Subpix refinement failed for point: 43 with displacement: 1.44165(point removed) 
+
+[DEBUG] [1639540682.188626]: Subpix refinement failed for point: 33 with displacement: 2.06644(point removed) 
+
+[DEBUG] [1639540682.188633]: Subpix refinement failed for point: 34 with displacement: 1.26928(point removed) 
+
+[DEBUG] [1639540682.188640]: Subpix refinement failed for point: 47 with displacement: 1.40152(point removed) 
+
+[DEBUG] [1639540682.188648]: Subpix refinement failed for point: 66 with displacement: 1.41737(point removed) 
+
+[DEBUG] [1639540682.188655]: Subpix refinement failed for point: 58 with displacement: 1.26396(point removed) 
+
+[DEBUG] [1639540682.188662]: Subpix refinement failed for point: 71 with displacement: 1.95136(point removed) 
+
+[DEBUG] [1639540682.188668]: Subpix refinement failed for point: 73 with displacement: 1.886(point removed) 
+
+[DEBUG] [1639540682.188675]: Subpix refinement failed for point: 74 with displacement: 1.30527(point removed) 
+
+[DEBUG] [1639540682.188682]: Subpix refinement failed for point: 78 with displacement: 2.13317(point removed) 
+
+[DEBUG] [1639540682.188689]: Subpix refinement failed for point: 80 with displacement: 1.64772(point removed) 
+
+[DEBUG] [1639540682.188697]: Subpix refinement failed for point: 108 with displacement: 1.431(point removed) 
+
+[DEBUG] [1639540682.188704]: Subpix refinement failed for point: 113 with displacement: 1.67129(point removed) 
+
+[DEBUG] [1639540682.188711]: Subpix refinement failed for point: 102 with displacement: 1.50177(point removed) 
+
+[DEBUG] [1639540682.188718]: Subpix refinement failed for point: 117 with displacement: 1.22693(point removed) 
+
+[DEBUG] [1639540682.188724]: Subpix refinement failed for point: 116 with displacement: 1.44645(point removed) 
+
+[DEBUG] [1639540682.188731]: Subpix refinement failed for point: 120 with displacement: 2.03269(point removed) 
+
+[DEBUG] [1639540682.188738]: Subpix refinement failed for point: 121 with displacement: 1.83035(point removed) 
+
+[DEBUG] [1639540682.188744]: Subpix refinement failed for point: 132 with displacement: 2.02308(point removed) 
+
+[DEBUG] [1639540682.188751]: Subpix refinement failed for point: 123 with displacement: 1.50343(point removed) 
+
+[DEBUG] [1639540682.188758]: Subpix refinement failed for point: 137 with displacement: 1.96109(point removed) 
+
+[DEBUG] [1639540682.188766]: Subpix refinement failed for point: 142 with displacement: 1.25906(point removed) 
+
+  Progress 25 / 44 	 Time remaining: 2m 56s                 [DEBUG] [1639540691.425154]: Subpix refinement failed for point: 3 with displacement: 1.65855(point removed) 
+
+[DEBUG] [1639540691.425180]: Subpix refinement failed for point: 4 with displacement: 1.31175(point removed) 
+
+[DEBUG] [1639540691.425187]: Subpix refinement failed for point: 5 with displacement: 2.19341(point removed) 
+
+[DEBUG] [1639540691.425194]: Subpix refinement failed for point: 17 with displacement: 1.23388(point removed) 
+
+[DEBUG] [1639540691.425200]: Subpix refinement failed for point: 7 with displacement: 1.31924(point removed) 
+
+[DEBUG] [1639540691.425208]: Subpix refinement failed for point: 23 with displacement: 1.81302(point removed) 
+
+[DEBUG] [1639540691.425214]: Subpix refinement failed for point: 22 with displacement: 1.27328(point removed) 
+
+[DEBUG] [1639540691.425222]: Subpix refinement failed for point: 43 with displacement: 1.84074(point removed) 
+
+[DEBUG] [1639540691.425229]: Subpix refinement failed for point: 35 with displacement: 1.71117(point removed) 
+
+[DEBUG] [1639540691.425236]: Subpix refinement failed for point: 48 with displacement: 1.34037(point removed) 
+
+[DEBUG] [1639540691.425243]: Subpix refinement failed for point: 60 with displacement: 1.91276(point removed) 
+
+[DEBUG] [1639540691.425250]: Subpix refinement failed for point: 52 with displacement: 1.50808(point removed) 
+
+[DEBUG] [1639540691.425256]: Subpix refinement failed for point: 64 with displacement: 1.38619(point removed) 
+
+[DEBUG] [1639540691.425263]: Subpix refinement failed for point: 55 with displacement: 1.60384(point removed) 
+
+[DEBUG] [1639540691.425282]: Subpix refinement failed for point: 67 with displacement: 1.27528(point removed) 
+
+[DEBUG] [1639540691.425289]: Subpix refinement failed for point: 66 with displacement: 1.94382(point removed) 
+
+[DEBUG] [1639540691.425296]: Subpix refinement failed for point: 57 with displacement: 1.34915(point removed) 
+
+[DEBUG] [1639540691.425303]: Subpix refinement failed for point: 85 with displacement: 1.44097(point removed) 
+
+[DEBUG] [1639540691.425310]: Subpix refinement failed for point: 74 with displacement: 1.55231(point removed) 
+
+[DEBUG] [1639540691.425316]: Subpix refinement failed for point: 87 with displacement: 2.07682(point removed) 
+
+[DEBUG] [1639540691.425323]: Subpix refinement failed for point: 77 with displacement: 2.06442(point removed) 
+
+[DEBUG] [1639540691.425330]: Subpix refinement failed for point: 78 with displacement: 1.78376(point removed) 
+
+[DEBUG] [1639540691.425336]: Subpix refinement failed for point: 79 with displacement: 1.45562(point removed) 
+
+[DEBUG] [1639540691.425343]: Subpix refinement failed for point: 90 with displacement: 1.62278(point removed) 
+
+[DEBUG] [1639540691.425350]: Subpix refinement failed for point: 92 with displacement: 1.3421(point removed) 
+
+[DEBUG] [1639540691.425356]: Subpix refinement failed for point: 82 with displacement: 1.98356(point removed) 
+
+[DEBUG] [1639540691.425363]: Subpix refinement failed for point: 96 with displacement: 1.31412(point removed) 
+
+[DEBUG] [1639540691.425370]: Subpix refinement failed for point: 97 with displacement: 1.42342(point removed) 
+
+[DEBUG] [1639540691.425376]: Subpix refinement failed for point: 108 with displacement: 1.79085(point removed) 
+
+[DEBUG] [1639540691.425383]: Subpix refinement failed for point: 101 with displacement: 1.64158(point removed) 
+
+[DEBUG] [1639540691.425390]: Subpix refinement failed for point: 102 with displacement: 2.00373(point removed) 
+
+[DEBUG] [1639540691.425397]: Subpix refinement failed for point: 114 with displacement: 1.98937(point removed) 
+
+[DEBUG] [1639540691.425403]: Subpix refinement failed for point: 104 with displacement: 1.79783(point removed) 
+
+[DEBUG] [1639540691.425410]: Subpix refinement failed for point: 105 with displacement: 1.24841(point removed) 
+
+[DEBUG] [1639540691.425417]: Subpix refinement failed for point: 117 with displacement: 1.62726(point removed) 
+
+[DEBUG] [1639540691.425424]: Subpix refinement failed for point: 106 with displacement: 1.30345(point removed) 
+
+[DEBUG] [1639540691.425431]: Subpix refinement failed for point: 118 with displacement: 1.64674(point removed) 
+
+[DEBUG] [1639540691.425437]: Subpix refinement failed for point: 120 with displacement: 2.36014(point removed) 
+
+[DEBUG] [1639540691.425444]: Subpix refinement failed for point: 133 with displacement: 1.77879(point removed) 
+
+[DEBUG] [1639540691.425450]: Subpix refinement failed for point: 132 with displacement: 1.23647(point removed) 
+
+[DEBUG] [1639540691.425457]: Subpix refinement failed for point: 135 with displacement: 1.27591(point removed) 
+
+[DEBUG] [1639540691.425464]: Subpix refinement failed for point: 134 with displacement: 1.4578(point removed) 
+
+[DEBUG] [1639540691.425470]: Subpix refinement failed for point: 137 with displacement: 1.88297(point removed) 
+
+[DEBUG] [1639540691.425478]: Subpix refinement failed for point: 129 with displacement: 1.2736(point removed) 
+
+[DEBUG] [1639540691.425485]: Subpix refinement failed for point: 143 with displacement: 1.5502(point removed) 
+
+[DEBUG] [1639540691.425491]: Subpix refinement failed for point: 142 with displacement: 1.60015(point removed) 
+
+  Progress 26 / 44 	 Time remaining: 2m 47s                 [DEBUG] [1639540706.354641]: Subpix refinement failed for point: 1 with displacement: 1.55119(point removed) 
+
+[DEBUG] [1639540706.355021]: Subpix refinement failed for point: 13 with displacement: 1.28212(point removed) 
+
+[DEBUG] [1639540706.355031]: Subpix refinement failed for point: 2 with displacement: 1.3671(point removed) 
+
+[DEBUG] [1639540706.355038]: Subpix refinement failed for point: 5 with displacement: 1.4768(point removed) 
+
+[DEBUG] [1639540706.355045]: Subpix refinement failed for point: 8 with displacement: 2.31108(point removed) 
+
+[DEBUG] [1639540706.355052]: Subpix refinement failed for point: 9 with displacement: 1.94473(point removed) 
+
+[DEBUG] [1639540706.355059]: Subpix refinement failed for point: 21 with displacement: 1.33291(point removed) 
+
+[DEBUG] [1639540706.355066]: Subpix refinement failed for point: 22 with displacement: 1.84631(point removed) 
+
+[DEBUG] [1639540706.355073]: Subpix refinement failed for point: 27 with displacement: 1.46511(point removed) 
+
+[DEBUG] [1639540706.355079]: Subpix refinement failed for point: 39 with displacement: 1.68622(point removed) 
+
+[DEBUG] [1639540706.355086]: Subpix refinement failed for point: 28 with displacement: 1.90107(point removed) 
+
+[DEBUG] [1639540706.355092]: Subpix refinement failed for point: 29 with displacement: 1.35737(point removed) 
+
+[DEBUG] [1639540706.355132]: Subpix refinement failed for point: 32 with displacement: 1.47763(point removed) 
+
+[DEBUG] [1639540706.355140]: Subpix refinement failed for point: 45 with displacement: 1.26868(point removed) 
+
+[DEBUG] [1639540706.355146]: Subpix refinement failed for point: 34 with displacement: 2.02927(point removed) 
+
+[DEBUG] [1639540706.355153]: Subpix refinement failed for point: 47 with displacement: 1.57806(point removed) 
+
+[DEBUG] [1639540706.355160]: Subpix refinement failed for point: 46 with displacement: 1.51059(point removed) 
+
+[DEBUG] [1639540706.355166]: Subpix refinement failed for point: 49 with displacement: 1.75251(point removed) 
+
+[DEBUG] [1639540706.355173]: Subpix refinement failed for point: 50 with displacement: 2.03233(point removed) 
+
+[DEBUG] [1639540706.355180]: Subpix refinement failed for point: 62 with displacement: 2.16652(point removed) 
+
+[DEBUG] [1639540706.355187]: Subpix refinement failed for point: 53 with displacement: 1.98302(point removed) 
+
+[DEBUG] [1639540706.355193]: Subpix refinement failed for point: 64 with displacement: 1.50754(point removed) 
+
+[DEBUG] [1639540706.355200]: Subpix refinement failed for point: 67 with displacement: 1.91861(point removed) 
+
+[DEBUG] [1639540706.355207]: Subpix refinement failed for point: 71 with displacement: 1.77077(point removed) 
+
+[DEBUG] [1639540706.355214]: Subpix refinement failed for point: 72 with displacement: 1.87966(point removed) 
+
+[DEBUG] [1639540706.355221]: Subpix refinement failed for point: 85 with displacement: 1.46306(point removed) 
+
+[DEBUG] [1639540706.355227]: Subpix refinement failed for point: 84 with displacement: 1.42719(point removed) 
+
+[DEBUG] [1639540706.355234]: Subpix refinement failed for point: 86 with displacement: 1.9761(point removed) 
+
+[DEBUG] [1639540706.355241]: Subpix refinement failed for point: 88 with displacement: 2.20749(point removed) 
+
+[DEBUG] [1639540706.355260]: Subpix refinement failed for point: 78 with displacement: 1.9803(point removed) 
+
+[DEBUG] [1639540706.355268]: Subpix refinement failed for point: 79 with displacement: 1.7964(point removed) 
+
+[DEBUG] [1639540706.355274]: Subpix refinement failed for point: 80 with displacement: 2.25669(point removed) 
+
+[DEBUG] [1639540706.355282]: Subpix refinement failed for point: 97 with displacement: 1.93963(point removed) 
+
+[DEBUG] [1639540706.355288]: Subpix refinement failed for point: 109 with displacement: 1.50392(point removed) 
+
+[DEBUG] [1639540706.355296]: Subpix refinement failed for point: 108 with displacement: 1.30461(point removed) 
+
+[DEBUG] [1639540706.355303]: Subpix refinement failed for point: 98 with displacement: 1.95213(point removed) 
+
+[DEBUG] [1639540706.355309]: Subpix refinement failed for point: 111 with displacement: 1.81647(point removed) 
+
+[DEBUG] [1639540706.355316]: Subpix refinement failed for point: 100 with displacement: 1.30116(point removed) 
+
+[DEBUG] [1639540706.355323]: Subpix refinement failed for point: 101 with displacement: 2.01154(point removed) 
+
+[DEBUG] [1639540706.355329]: Subpix refinement failed for point: 112 with displacement: 1.39449(point removed) 
+
+[DEBUG] [1639540706.355336]: Subpix refinement failed for point: 102 with displacement: 1.51289(point removed) 
+
+[DEBUG] [1639540706.355342]: Subpix refinement failed for point: 104 with displacement: 1.37328(point removed) 
+
+[DEBUG] [1639540706.355349]: Subpix refinement failed for point: 116 with displacement: 1.86338(point removed) 
+
+[DEBUG] [1639540706.355356]: Subpix refinement failed for point: 106 with displacement: 1.84116(point removed) 
+
+[DEBUG] [1639540706.355362]: Subpix refinement failed for point: 118 with displacement: 1.96212(point removed) 
+
+  Progress 27 / 44 	 Time remaining: 2m 41s                 
+进程已结束,退出代码137 (interrupted by signal 9: SIGKILL)
