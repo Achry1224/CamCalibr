@@ -1,0 +1,306 @@
+imu_topic: 
+mocap_topic: 
+cam_topics: /cam0/image_raw 
+Total number of messages: 100
+Image size: 100
+Min time: 1000000000 max time: 100000000000 mocap to imu offset: 0
+Number of mocap poses: 0
+No pre-processed detected corners found
+No pre-processed initial poses found
+No calibration found
+Started detecting corners
+Done detecting corners. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/RollingShutterDataNov12/bluefox_mlc/intrinsics_calib3/basalt/ds/calib-cam_detected_corners.cereal
+Started camera intrinsics initialization
+Initialized camera 0 with pinhole model. You should set pinhole model for this camera!
+Done camera intrinsics initialization:
+Cam 0: 982.473 985.362   639.5   479.5       0     0.5
+Started initial camera pose computation 
+Done initial camera pose computation. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/RollingShutterDataNov12/bluefox_mlc/intrinsics_calib3/basalt/ds/calib-cam_init_poses.cereal
+Done camera extrinsics initialization:
+T_c0_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Initialized optimization.
+[LINEARIZE] Error: 266619 num points 13440
+	[ACCEPTED] lambda:1e-06 step_quality: 2.23924 max_inc: 45.2553 Error: 82440.7 num points 13440
+==================================
+intrinsics 0:    980.435    981.441    684.755    511.346 0.00290876   0.177467
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 82440.7 num_points 13440 mean_error 6.13398 reprojection_error 25343.2 mean reprojection 1.88565 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 82440.7 num points 13440
+	[ACCEPTED] lambda:3.33333e-07 step_quality: 2.41282 max_inc: 11.9774 Error: 8951.88 num points 13440
+==================================
+intrinsics 0:    979.966    980.544    673.185    499.369 0.00606014   0.145776
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8951.88 num_points 13440 mean_error 0.666062 reprojection_error 7631.59 mean reprojection 0.567827 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8951.88 num points 13440
+	[ACCEPTED] lambda:1.11111e-07 step_quality: 2.02578 max_inc: 6.49041 Error: 8533.22 num points 13440
+==================================
+intrinsics 0:   986.387   987.034   673.661   499.456 0.0129302  0.139302
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8533.22 num_points 13440 mean_error 0.634913 reprojection_error 7432.46 mean reprojection 0.553011 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8533.22 num points 13440
+	[REJECTED] lambda:3.7037e-08 step_quality: -28.7775 max_inc: 38.4842 Error: 8547.66 num points 13440
+	[ACCEPTED] lambda:7.40741e-08 step_quality: 0.21979 max_inc: 19.2469 Error: 8533.12 num points 13440
+==================================
+intrinsics 0:   1005.61   1006.28   673.657    499.43 0.0326709  0.124879
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8533.12 num_points 13440 mean_error 0.634905 reprojection_error 7420.26 mean reprojection 0.552102 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8533.12 num points 13440
+	[REJECTED] lambda:8.7112e-08 step_quality: -8.75768 max_inc: 31.918 Error: 8539.01 num points 13440
+	[ACCEPTED] lambda:1.74224e-07 step_quality: 1.37182 max_inc: 15.9612 Error: 8532.28 num points 13440
+==================================
+intrinsics 0:   1021.56   1022.24   673.654   499.428 0.0490467  0.112153
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8532.28 num_points 13440 mean_error 0.634842 reprojection_error 7423.84 mean reprojection 0.552369 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8532.28 num points 13440
+	[REJECTED] lambda:5.80747e-08 step_quality: -110.095 max_inc: 55.1949 Error: 8587.25 num points 13440
+	[REJECTED] lambda:1.16149e-07 step_quality: -7.92464 max_inc: 27.6023 Error: 8535.33 num points 13440
+	[ACCEPTED] lambda:4.64597e-07 step_quality: 2.16145 max_inc: 6.90088 Error: 8531.64 num points 13440
+==================================
+intrinsics 0:  1028.46  1029.14  673.655  499.427 0.056129 0.106346
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.64 num_points 13440 mean_error 0.634794 reprojection_error 7432.2 mean reprojection 0.552991 opt_time 3ms.
+==================================
+[LINEARIZE] Error: 8531.64 num points 13440
+	[REJECTED] lambda:1.54866e-07 step_quality: -9.12932 max_inc: 20.6839 Error: 8532.53 num points 13440
+	[ACCEPTED] lambda:3.09732e-07 step_quality: 1.95483 max_inc: 10.3421 Error: 8531.53 num points 13440
+==================================
+intrinsics 0:   1038.79   1039.49   673.656   499.425  0.066744 0.0978131
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.53 num_points 13440 mean_error 0.634786 reprojection_error 7430.46 mean reprojection 0.552862 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.53 num points 13440
+	[REJECTED] lambda:1.03244e-07 step_quality: -27.2907 max_inc: 29.1756 Error: 8535.65 num points 13440
+	[REJECTED] lambda:2.06488e-07 step_quality: -0.30441 max_inc: 14.5891 Error: 8531.56 num points 13440
+	[ACCEPTED] lambda:8.25951e-07 step_quality: 2.48818 max_inc: 3.6474 Error: 8531.39 num points 13440
+==================================
+intrinsics 0:   1042.44   1043.13   673.656   499.425 0.0704868 0.0946644
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.39 num_points 13440 mean_error 0.634776 reprojection_error 7433.93 mean reprojection 0.55312 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.39 num points 13440
+	[ACCEPTED] lambda:2.75317e-07 step_quality: 1.54825 max_inc: 10.4889 Error: 8531.33 num points 13440
+==================================
+intrinsics 0:   1052.92   1053.62   673.657   499.425 0.0812512  0.085791
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.33 num_points 13440 mean_error 0.634772 reprojection_error 7430.48 mean reprojection 0.552863 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8531.33 num points 13440
+	[REJECTED] lambda:9.17723e-08 step_quality: -21.9071 max_inc: 26.0564 Error: 8533.86 num points 13440
+	[ACCEPTED] lambda:1.83545e-07 step_quality: 0.175769 max_inc: 13.0291 Error: 8531.32 num points 13440
+==================================
+intrinsics 0:   1065.94   1066.65   673.656   499.425 0.0946209 0.0744572
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.32 num_points 13440 mean_error 0.634771 reprojection_error 7428.08 mean reprojection 0.552684 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.32 num points 13440
+	[ACCEPTED] lambda:2.33594e-07 step_quality: 2.04968 max_inc: 6.33075 Error: 8531.11 num points 13440
+==================================
+intrinsics 0:   1072.27   1072.98   673.656   499.426  0.101117 0.0686984
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.11 num_points 13440 mean_error 0.634755 reprojection_error 7432.59 mean reprojection 0.55302 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8531.11 num points 13440
+	[REJECTED] lambda:7.78645e-08 step_quality: -4.3404 max_inc: 11.7464 Error: 8531.19 num points 13440
+	[ACCEPTED] lambda:1.55729e-07 step_quality: 1.78701 max_inc: 5.87294 Error: 8531.09 num points 13440
+==================================
+intrinsics 0:   1078.14   1078.85   673.657   499.425  0.107145 0.0633778
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.09 num_points 13440 mean_error 0.634753 reprojection_error 7433.07 mean reprojection 0.553056 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.09 num points 13440
+	[REJECTED] lambda:5.19097e-08 step_quality: -0.469548 max_inc: 6.41906 Error: 8531.09 num points 13440
+	[ACCEPTED] lambda:1.03819e-07 step_quality: 1.87727 max_inc: 3.20946 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.34   1082.06   673.657   499.425  0.110438 0.0604289
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7433.98 mean reprojection 0.553124 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:3.46065e-08 step_quality: 2.03853 max_inc: 0.305732 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.04   1081.76   673.657   499.425  0.110125 0.0606974
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.4 mean reprojection 0.553155 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[REJECTED] lambda:1.15355e-08 step_quality: -15.7797 max_inc: 1.9052 Error: 8531.08 num points 13440
+	[REJECTED] lambda:2.3071e-08 step_quality: -5.02843 max_inc: 0.952567 Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:9.22839e-08 step_quality: 1.78764 max_inc: 0.238091 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.28      1082   673.657   499.425  0.110369 0.0604785
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[REJECTED] lambda:3.07613e-08 step_quality: -2.63467 max_inc: 0.132396 Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:6.15226e-08 step_quality: 0.739808 max_inc: 0.0662006 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.21   1081.93   673.657   499.425  0.110301 0.0605389
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:5.4735e-08 step_quality: 0.0253237 max_inc: 0.0574281 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.27   1081.99   673.657   499.425   0.11036 0.0604864
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:1.01567e-07 step_quality: 1.84736 max_inc: 0.0308014 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.24   1081.96   673.657   499.425  0.110329 0.0605145
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[REJECTED] lambda:3.38558e-08 step_quality: -2.37647 max_inc: 0.00694409 Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:6.77117e-08 step_quality: 0.826368 max_inc: 0.00347185 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.24   1081.96   673.657   499.425  0.110332 0.0605114
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[REJECTED] lambda:4.88805e-08 step_quality: -0.507848 max_inc: 0.00295544 Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:9.7761e-08 step_quality: 1.74564 max_inc: 0.00147771 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.24   1081.96   673.657   499.425  0.110331 0.0605127
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[REJECTED] lambda:3.2587e-08 step_quality: -2.4878 max_inc: 0.000517953 Error: 8531.08 num points 13440
+	[REJECTED] lambda:6.5174e-08 step_quality: -3.53814 max_inc: 0.000258966 Error: 8531.08 num points 13440
+	[REJECTED] lambda:2.60696e-07 step_quality: -8.27003 max_inc: 6.4727e-05 Error: 8531.08 num points 13440
+	[REJECTED] lambda:2.08557e-06 step_quality: -88.6948 max_inc: 8.07379e-06 Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:3.33691e-05 step_quality: 527.268 max_inc: 4.86637e-07 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.24   1081.96   673.657   499.425  0.110331 0.0605127
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 3ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[ACCEPTED] lambda:1.1123e-05 step_quality: 242.815 max_inc: 1.5095e-06 Error: 8531.08 num points 13440
+==================================
+intrinsics 0:   1081.24   1081.96   673.657   499.425  0.110331 0.0605127
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 8531.08 num points 13440
+	[REJECTED] lambda:3.70768e-06 step_quality: -543.654 max_inc: 4.48639e-06 Error: 8531.08 num points 13440
+	[REJECTED] lambda:7.41535e-06 step_quality: -459.978 max_inc: 2.24315e-06 Error: 8531.08 num points 13440
+	[REJECTED] lambda:2.96614e-05 step_quality: -1671.86 max_inc: 5.60727e-07 Error: 8531.08 num points 13440
+	[REJECTED] lambda:0.000237291 step_quality: -35962.1 max_inc: 7.00309e-08 Error: 8531.08 num points 13440
+	[REJECTED] lambda:0.00379666 step_quality: -201284 max_inc: 4.34351e-09 Error: 8531.08 num points 13440
+[CONVERGED]
+==================================
+intrinsics 0:   1081.24   1081.96   673.657   499.425  0.110331 0.0605127
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 8531.08 num_points 13440 mean_error 0.634753 reprojection_error 7434.43 mean reprojection 0.553157 opt_time 3ms.
+Optimization Converged !!
+==================================
+Optimization converged with 22 iteration steps.
+Elapsed time (ms): load dataset 0, detect corners 0, init cam intrinsics 0, optimization 0.
+Saved calibration in /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/RollingShutterDataNov12/bluefox_mlc/intrinsics_calib3/basalt/ds/calibration.json

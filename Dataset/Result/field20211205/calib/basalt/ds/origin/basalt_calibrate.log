@@ -1,0 +1,11 @@
+imu_topic: 
+mocap_topic: 
+cam_topics: /cam0/image_raw /cam1/image_raw 
+Total number of messages: 88
+Image size: 44
+Min time: 110000000000 max time: 153000000000 mocap to imu offset: 0
+Number of mocap poses: 0
+No pre-processed detected corners found
+No pre-processed initial poses found
+No calibration found
+Started detecting corners
