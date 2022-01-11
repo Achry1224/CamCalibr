@@ -1,0 +1,172 @@
+imu_topic: /imu0
+mocap_topic: /vrpn_client/raw_transform
+cam_topics: /cam0/image_raw /cam1/image_raw 
+Total number of messages: 27079
+Image size: 337
+Min time: 1520526024056746093 max time: 1520526108212845093 mocap to imu offset: 0
+Number of mocap poses: 9625
+No pre-processed detected corners found
+No pre-processed initial poses found
+No calibration found
+Started detecting corners
+Done detecting corners. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/tumvi_calib_data/basalt/eucm/calib-cam_detected_corners.cereal
+Started camera intrinsics initialization
+Done camera intrinsics initialization:
+Cam 0: 164.343 164.343   255.5   255.5     0.5       1
+Cam 1: 164.633 164.633   255.5   255.5     0.5       1
+Started initial camera pose computation 
+Done initial camera pose computation. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/tumvi_calib_data/basalt/eucm/calib-cam_init_poses.cereal
+Initializing camera pair 0 1
+Done camera extrinsics initialization:
+T_c0_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+T_c0_c1:
+    0.999983  -0.00219565   -0.0054707     0.115043
+  0.00241452     0.999184    0.0403265    0.0208954
+   0.0053777    -0.040339     0.999172 -0.000861461
+           0            0            0            1
+Initialized optimization.
+[LINEARIZE] Error: 1.63896e+06 num points 74375
+	[ACCEPTED] lambda:1e-06 step_quality: 2.53551 max_inc: 22.0566 Error: 350424 num points 74375
+==================================
+intrinsics 0:  186.143    186.4  253.937  257.415 0.578716  1.14066
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1:  185.424  185.845  250.677  255.155 0.580884  1.12993
+T_i_c1:
+    0.999998  0.000765136  -0.00169856     0.100259
+-0.000686449     0.998948    0.0458524   0.00236331
+  0.00173186   -0.0458512     0.998947  0.000366679
+           0            0            0            1
+Current error: 350424 num_points 74375 mean_error 4.71158 reprojection_error 117417 mean reprojection 1.57871 opt_time 10ms.
+==================================
+[LINEARIZE] Error: 350424 num points 74375
+	[ACCEPTED] lambda:3.33333e-07 step_quality: 1.9375 max_inc: 4.69185 Error: 70452.2 num points 74375
+==================================
+intrinsics 0:  190.773  190.803  254.663  257.128 0.627762  1.03558
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1:  190.116  190.175  252.055   255.11 0.626666  1.03766
+T_i_c1:
+           1  0.000906223 -0.000155097     0.100774
+-0.000897876     0.998881    0.0472795   0.00157836
+ 0.000197769   -0.0472793     0.998882   0.00114948
+           0            0            0            1
+Current error: 70452.2 num_points 74375 mean_error 0.947256 reprojection_error 34593.3 mean reprojection 0.465121 opt_time 8ms.
+==================================
+[LINEARIZE] Error: 70452.2 num points 74375
+	[ACCEPTED] lambda:1.11111e-07 step_quality: 2.40961 max_inc: 0.49765 Error: 11830.1 num points 74375
+==================================
+intrinsics 0:  191.141  191.127  254.953  256.896 0.629425  1.04095
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1:  190.469  190.437  252.552   255.02 0.628264  1.04079
+T_i_c1:
+           1  0.000908443   0.00035989     0.101065
+ -0.00092462     0.998855    0.0478397   0.00165127
+-0.000316018     -0.04784     0.998855   0.00139312
+           0            0            0            1
+Current error: 11830.1 num_points 74375 mean_error 0.15906 reprojection_error 11832.9 mean reprojection 0.159098 opt_time 8ms.
+==================================
+[LINEARIZE] Error: 11830.1 num points 74375
+	[ACCEPTED] lambda:3.7037e-08 step_quality: 2.50324 max_inc: 0.0229803 Error: 4619.08 num points 74375
+==================================
+intrinsics 0:  191.146  191.131  254.959  256.889 0.629161  1.04167
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1:  190.475  190.441  252.564  255.026 0.628147  1.04112
+T_i_c1:
+           1  0.000911012  0.000377082     0.101069
+-0.000928028     0.998852    0.0478992    0.0016604
+-0.000333013   -0.0478996     0.998852   0.00139032
+           0            0            0            1
+Current error: 4619.08 num_points 74375 mean_error 0.0621053 reprojection_error 9847.42 mean reprojection 0.132402 opt_time 9ms.
+==================================
+[LINEARIZE] Error: 4619.08 num points 74375
+	[ACCEPTED] lambda:1.23457e-08 step_quality: 1.99997 max_inc: 0.00132933 Error: 4616.33 num points 74375
+==================================
+intrinsics 0:  191.145   191.13  254.958  256.889 0.629172  1.04164
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1: 190.474  190.44 252.563 255.026 0.62815 1.04111
+T_i_c1:
+           1  0.000911031  0.000379376     0.101069
+-0.000928157     0.998852    0.0479001   0.00166057
+-0.000335302   -0.0479005     0.998852   0.00138987
+           0            0            0            1
+Current error: 4616.33 num_points 74375 mean_error 0.0620682 reprojection_error 9836.31 mean reprojection 0.132253 opt_time 8ms.
+==================================
+[LINEARIZE] Error: 4616.33 num points 74375
+	[ACCEPTED] lambda:4.11523e-09 step_quality: 1.99987 max_inc: 6.28913e-06 Error: 4616.33 num points 74375
+==================================
+intrinsics 0:  191.145   191.13  254.958  256.889 0.629172  1.04164
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1: 190.474  190.44 252.563 255.026 0.62815 1.04111
+T_i_c1:
+           1  0.000911032  0.000379388     0.101069
+-0.000928159     0.998852    0.0479001   0.00166057
+-0.000335314   -0.0479005     0.998852   0.00138986
+           0            0            0            1
+Current error: 4616.33 num_points 74375 mean_error 0.0620682 reprojection_error 9836.3 mean reprojection 0.132253 opt_time 8ms.
+==================================
+[LINEARIZE] Error: 4616.33 num points 74375
+	[ACCEPTED] lambda:1.37174e-09 step_quality: 1.27291 max_inc: 3.41468e-08 Error: 4616.33 num points 74375
+==================================
+intrinsics 0:  191.145   191.13  254.958  256.889 0.629172  1.04164
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1: 190.474  190.44 252.563 255.026 0.62815 1.04111
+T_i_c1:
+           1  0.000911032  0.000379388     0.101069
+-0.000928159     0.998852    0.0479001   0.00166057
+-0.000335314   -0.0479005     0.998852   0.00138986
+           0            0            0            1
+Current error: 4616.33 num_points 74375 mean_error 0.0620682 reprojection_error 9836.3 mean reprojection 0.132253 opt_time 8ms.
+==================================
+[LINEARIZE] Error: 4616.33 num points 74375
+	[ACCEPTED] lambda:4.57247e-10 step_quality: 915.917 max_inc: 9.44472e-10 Error: 4616.33 num points 74375
+[CONVERGED]
+==================================
+intrinsics 0:  191.145   191.13  254.958  256.889 0.629172  1.04164
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+intrinsics 1: 190.474  190.44 252.563 255.026 0.62815 1.04111
+T_i_c1:
+           1  0.000911032  0.000379388     0.101069
+-0.000928159     0.998852    0.0479001   0.00166057
+-0.000335314   -0.0479005     0.998852   0.00138986
+           0            0            0            1
+Current error: 4616.33 num_points 74375 mean_error 0.0620682 reprojection_error 9836.3 mean reprojection 0.132253 opt_time 8ms.
+Optimization Converged !!
+==================================
+Optimization converged with 7 iteration steps.
+Elapsed time (ms): load dataset 0, detect corners 0, init cam intrinsics 0, optimization 0.
+Saved calibration in /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/tumvi_calib_data/basalt/eucm/calibration.json
