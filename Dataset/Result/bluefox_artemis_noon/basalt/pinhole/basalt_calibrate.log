@@ -1,0 +1,206 @@
+imu_topic: 
+mocap_topic: 
+cam_topics: /cam0/image_raw 
+Total number of messages: 99
+Image size: 99
+Min time: 1000000000 max time: 99000000000 mocap to imu offset: 0
+Number of mocap poses: 0
+No pre-processed detected corners found
+No pre-processed initial poses found
+No calibration found
+Started detecting corners
+Done detecting corners. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/bluefox_artemis_noon/basalt/pinhole/calib-cam_detected_corners.cereal
+Started camera intrinsics initialization
+Initialized camera 0 with pinhole model. You should set pinhole model for this camera!
+Done camera intrinsics initialization:
+Cam 0: 1008.01 1011.86   639.5   479.5
+Started initial camera pose computation 
+Done initial camera pose computation. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/bluefox_artemis_noon/basalt/pinhole/calib-cam_init_poses.cereal
+Done camera extrinsics initialization:
+T_c0_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Initialized optimization.
+[LINEARIZE] Error: 49301.9 num points 14024
+	[ACCEPTED] lambda:1e-06 step_quality: 2.36105 max_inc: 28.8769 Error: 16463.5 num points 14024
+==================================
+intrinsics 0: 994.624 997.133 668.377 486.544
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 16463.5 num_points 14024 mean_error 1.17395 reprojection_error 11094.5 mean reprojection 0.791107 opt_time 31ms.
+==================================
+[LINEARIZE] Error: 16463.5 num points 14024
+	[ACCEPTED] lambda:3.33333e-07 step_quality: 2.15733 max_inc: 3.50864 Error: 12905.5 num points 14024
+==================================
+intrinsics 0: 991.753  994.57 671.886 487.353
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12905.5 num_points 14024 mean_error 0.920246 reprojection_error 9723.52 mean reprojection 0.693349 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12905.5 num points 14024
+	[ACCEPTED] lambda:1.11111e-07 step_quality: 2.40128 max_inc: 0.974984 Error: 12849.3 num points 14024
+==================================
+intrinsics 0: 991.384 994.217  672.86 487.515
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12849.3 num_points 14024 mean_error 0.91624 reprojection_error 9759.68 mean reprojection 0.695927 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12849.3 num points 14024
+	[ACCEPTED] lambda:3.7037e-08 step_quality: 2.42609 max_inc: 0.2034 Error: 12846.9 num points 14024
+==================================
+intrinsics 0: 991.349 994.179 673.064 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.9 num_points 14024 mean_error 0.916069 reprojection_error 9767.08 mean reprojection 0.696455 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 12846.9 num points 14024
+	[ACCEPTED] lambda:1.23457e-08 step_quality: 2.45253 max_inc: 0.0427144 Error: 12846.8 num points 14024
+==================================
+intrinsics 0:  991.34  994.17 673.107 487.523
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.916061 reprojection_error 9768.57 mean reprojection 0.696561 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:4.11523e-09 step_quality: 2.46201 max_inc: 0.00934418 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.338 994.167 673.116 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.89 mean reprojection 0.696584 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:1.37174e-09 step_quality: 2.48151 max_inc: 0.00206631 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.118 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.95 mean reprojection 0.696588 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:4.57247e-10 step_quality: 2.49339 max_inc: 0.00046362 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.118 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:1.52416e-10 step_quality: 2.50237 max_inc: 0.000106104 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:5.08053e-11 step_quality: 2.50957 max_inc: 2.47368e-05 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:1.69351e-11 step_quality: 2.52034 max_inc: 5.86645e-06 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:5.64503e-12 step_quality: 2.52914 max_inc: 1.41317e-06 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:1.88168e-12 step_quality: 0.779456 max_inc: 3.45444e-07 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:1.55315e-12 step_quality: 10.7262 max_inc: 8.56269e-08 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 2ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[ACCEPTED] lambda:1e-12 step_quality: 1211.84 max_inc: 2.15129e-08 Error: 12846.8 num points 14024
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 1ms.
+==================================
+[LINEARIZE] Error: 12846.8 num points 14024
+	[REJECTED] lambda:1e-12 step_quality: -11923.7 max_inc: 5.47661e-09 Error: 12846.8 num points 14024
+[CONVERGED]
+==================================
+intrinsics 0: 991.337 994.167 673.119 487.522
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 12846.8 num_points 14024 mean_error 0.91606 reprojection_error 9768.97 mean reprojection 0.696589 opt_time 1ms.
+Optimization Converged !!
+==================================
+Optimization converged with 15 iteration steps.
+Elapsed time (ms): load dataset 0, detect corners 0, init cam intrinsics 0, optimization 0.
+Saved calibration in /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/bluefox_artemis_noon/basalt/pinhole/calibration.json
