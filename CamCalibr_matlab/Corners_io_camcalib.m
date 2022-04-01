@@ -1,9 +1,9 @@
 disp("===== begin =====");
 
 % ===== 输入参数 =====
-images_io = imageSet('.\bluefox_artemis_noon\img_example'); % 校准图像文件夹
+images_io = imageSet('.\bluefox_fisheye\img_example'); % 校准图像文件夹
 imageSize_io = [960, 1280]; % 校准图像分辨率（倒置）
-Corners = load('.\bluefox_artemis_noon\corners_info\Corners.mat');  % 输入校准参数
+Corners = load('.\bluefox_fisheye\corners_info\Corners.mat');  % 输入校准参数
 num_cor = 144;  % 总角点数量
 num_xy = 2; % 角点坐标数量
 num_img = 100;  % 校准图像数量
@@ -40,19 +40,21 @@ disp(imagePoints_input(120,1,1));
 % imageSize = [size(I, 1),size(I, 2)];
 % params_io = estimateCameraParameters(imagePoints,worldPoints, ...
 %                                  'ImageSize',imageSize);
-params_io = estimateCameraParameters(imagePoints_input, Corners.AprilGridPoint, ...
-                                  'ImageSize',imageSize_io);
+params_io_pinhole = estimateCameraParameters(imagePoints_input, Corners.AprilGridPoint, ...
+                                  'ImageSize',imageSize_io, EstimateTangentialDistortion = true);
+% params_io_fisheye = estimateFisheyeParameters(imagePoints_input, Corners.AprilGridPoint, ...
+%                                  imageSize_io);
 
 
 % 所有图像文件名
 imageFileNames_io = images_io.ImageLocation;
 
 % 可视化校准精度
-showReprojectionErrors(params_io);
+showReprojectionErrors(params_io_pinhole);
 
 % 可视化相机外部
 figure;
-showExtrinsics(params_io);
+showExtrinsics(params_io_pinhole);
 drawnow;
 
 % 绘制检测和重新投影的点
@@ -60,7 +62,7 @@ figure;
 imshow(imageFileNames_io{1}); 
 hold on;
 plot(imagePoints_input(:,1,1), imagePoints_input(:,2,1),'go');
-plot(params_io.ReprojectedPoints(:,1,1),params_io.ReprojectedPoints(:,2,1),'r+');
+plot(params_io_pinhole.ReprojectedPoints(:,1,1),params_io_pinhole.ReprojectedPoints(:,2,1),'r+');
 legend('Detected Points','ReprojectedPoints');
 hold off;
 
