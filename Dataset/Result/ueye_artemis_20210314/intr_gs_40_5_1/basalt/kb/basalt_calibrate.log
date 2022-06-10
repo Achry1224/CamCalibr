@@ -1,0 +1,106 @@
+imu_topic: 
+mocap_topic: 
+cam_topics: /cam0/image_raw 
+Total number of messages: 617
+Image size: 617
+Min time: 75139541300 max time: 290195324300 mocap to imu offset: 0
+Number of mocap poses: 0
+No pre-processed detected corners found
+No pre-processed initial poses found
+No calibration found
+Started detecting corners
+Done detecting corners. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/ueye_artemis_20210314/intr_gs_40_5_1/basalt/kb/calib-cam_detected_corners.cereal
+Started camera intrinsics initialization
+Done camera intrinsics initialization:
+Cam 0: 671.399 671.399   639.5   511.5       0       0       0       0
+Started initial camera pose computation 
+Done initial camera pose computation. Saved them here: /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/ueye_artemis_20210314/intr_gs_40_5_1/basalt/kb/calib-cam_init_poses.cereal
+Done camera extrinsics initialization:
+T_c0_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Initialized optimization.
+[LINEARIZE] Error: 927455 num points 79952
+	[ACCEPTED] lambda:1e-06 step_quality: 0.285003 max_inc: 64.1535 Error: 831995 num points 79952
+==================================
+intrinsics 0:     735.553     734.882     639.813     512.047   0.0120231  0.00042527  0.00336877 -0.00150604
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 831995 num_points 79952 mean_error 10.4062 reprojection_error 210328 mean reprojection 2.63068 opt_time 67ms.
+==================================
+[LINEARIZE] Error: 831995 num points 79952
+	[ACCEPTED] lambda:1.0795e-06 step_quality: 2.52855 max_inc: 5.72243 Error: 1681.3 num points 79952
+==================================
+intrinsics 0:     741.275     740.347     641.397     513.229   0.0182859 0.000785378  0.00324418  -0.0010769
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 1681.3 num_points 79952 mean_error 0.0210288 reprojection_error 9835.09 mean reprojection 0.123012 opt_time 14ms.
+==================================
+[LINEARIZE] Error: 1681.3 num points 79952
+	[ACCEPTED] lambda:3.59835e-07 step_quality: 2.00015 max_inc: 0.0493259 Error: 1619.99 num points 79952
+==================================
+intrinsics 0:     741.324     740.396     641.413     513.269   0.0183311 0.000680229  0.00359268 -0.00129033
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 1619.99 num_points 79952 mean_error 0.0202621 reprojection_error 9638.16 mean reprojection 0.120549 opt_time 13ms.
+==================================
+[LINEARIZE] Error: 1619.99 num points 79952
+	[ACCEPTED] lambda:1.19945e-07 step_quality: 2.03762 max_inc: 0.000811823 Error: 1619.99 num points 79952
+==================================
+intrinsics 0:     741.324     740.396     641.413     513.269   0.0183315  0.00067838  0.00359578 -0.00129196
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 1619.99 num_points 79952 mean_error 0.0202621 reprojection_error 9638.17 mean reprojection 0.12055 opt_time 13ms.
+==================================
+[LINEARIZE] Error: 1619.99 num points 79952
+	[ACCEPTED] lambda:3.99816e-08 step_quality: 2.08073 max_inc: 2.53601e-06 Error: 1619.99 num points 79952
+==================================
+intrinsics 0:     741.324     740.396     641.413     513.269   0.0183315 0.000678368   0.0035958 -0.00129197
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 1619.99 num_points 79952 mean_error 0.0202621 reprojection_error 9638.17 mean reprojection 0.12055 opt_time 13ms.
+==================================
+[LINEARIZE] Error: 1619.99 num points 79952
+	[ACCEPTED] lambda:1.33272e-08 step_quality: 2.28972 max_inc: 1.05058e-07 Error: 1619.99 num points 79952
+==================================
+intrinsics 0:     741.324     740.396     641.413     513.269   0.0183315 0.000678368   0.0035958 -0.00129197
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 1619.99 num_points 79952 mean_error 0.0202621 reprojection_error 9638.17 mean reprojection 0.12055 opt_time 13ms.
+==================================
+[LINEARIZE] Error: 1619.99 num points 79952
+	[REJECTED] lambda:4.4424e-09 step_quality: -43.8857 max_inc: 4.63759e-09 Error: 1619.99 num points 79952
+[CONVERGED]
+==================================
+intrinsics 0:     741.324     740.396     641.413     513.269   0.0183315 0.000678368   0.0035958 -0.00129197
+T_i_c0:
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Current error: 1619.99 num_points 79952 mean_error 0.0202621 reprojection_error 9638.17 mean reprojection 0.12055 opt_time 13ms.
+Optimization Converged !!
+==================================
+Optimization converged with 6 iteration steps.
+Elapsed time (ms): load dataset 0, detect corners 0, init cam intrinsics 0, optimization 0.
+Saved calibration in /media/achry/LENOVO_USB_HDD/CamCalibr/Dataset/Result/ueye_artemis_20210314/intr_gs_40_5_1/basalt/kb/calibration.json
