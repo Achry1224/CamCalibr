@@ -1,9 +1,9 @@
 disp("===== begin =====");
 
 % ===== 输入参数 =====
-images_io = imageSet('.\intr_gs_40_5_1\img_example'); % 校准图像文件夹
+images_io = imageSet('.\infinity_down_994_663\img_example'); % 校准图像文件夹
 imageSize_io = [1024, 1280]; % 校准图像分辨率（倒置）
-Corners = load('.\intr_gs_40_5_1\corners_info\Corners.mat');  % 输入校准参数
+Corners = load('.\infinity_down_994_663\corners_info\Corners.mat');  % 输入校准参数
 num_cor = 144;  % 总角点数量
 num_xy = 2; % 角点坐标数量
 num_img = 100;  % 校准图像数量
